@@ -209,6 +209,22 @@ The remaining 22 records contained alternative peptide sequences.
 
 The reference exact-match frequency was 95.03% at the accession-record level and 82.54% after deduplication of identical protein sequences.
 
+
+### Visualization of Conservation Results
+
+#### Figure 1. Reference-Peptide Exact-Match Frequency
+
+![Reference-peptide exact-match frequency](results/figures/figure1_exact_match.png)
+
+Figure 1 compares reference-peptide exact-match frequencies across EBNA1, EBNA3A, and BZLF1 at the accession-record and deduplicated protein-sequence levels.
+
+#### Figure 2. EBNA3A Position-Specific Shannon Entropy
+
+![EBNA3A Shannon entropy](results/figures/figure2_ebna3a_entropy.png)
+
+Figure 2 shows amino acid variability across the nine positions of the selected EBNA3A region. Higher Shannon entropy indicates greater amino acid diversity at a position.
+
+
 ## Discussion
 
 The three selected EBV antigen regions exhibited different patterns of sequence variation in the public protein records examined.
