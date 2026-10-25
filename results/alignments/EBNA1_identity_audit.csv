@@ -1,0 +1,697 @@
+protein,accession,description,length,status,identity_evidence,alignment_id
+EBNA1,YGW93480.1,"nuclear antigen-1, partial [human gammaherpesvirus 4]",220,INCLUDED,ANNOTATION_MATCH,YGW93480.1
+EBNA1,Q1HVF7.1,RecName: Full=Epstein-Barr nuclear antigen 1; Short=EBNA-1; Short=EBV nuclear antigen 1,641,INCLUDED,ANNOTATION_MATCH,Q1HVF7.1
+EBNA1,Q3KSS4.1,RecName: Full=Epstein-Barr nuclear antigen 1; Short=EBNA-1; Short=EBV nuclear antigen 1,641,INCLUDED,ANNOTATION_MATCH,Q3KSS4.1
+EBNA1,P03211.1,RecName: Full=Epstein-Barr nuclear antigen 1; Short=EBNA-1; Short=EBV nuclear antigen 1,641,INCLUDED,ANNOTATION_MATCH,YP_401677.1
+EBNA1,XUK99223.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99223.1
+EBNA1,XUK99222.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99222.1
+EBNA1,XUK99221.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99221.1
+EBNA1,XUK99220.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99221.1
+EBNA1,XUK99219.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99219.1
+EBNA1,XUK99218.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99218.1
+EBNA1,XUK99217.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99217.1
+EBNA1,XUK99216.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99221.1
+EBNA1,XUK99215.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99218.1
+EBNA1,XUK99214.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99221.1
+EBNA1,XUK99213.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99221.1
+EBNA1,XUK99212.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99219.1
+EBNA1,XUK99211.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99219.1
+EBNA1,XUK99210.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99221.1
+EBNA1,XUK99209.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99222.1
+EBNA1,XUK99208.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99219.1
+EBNA1,XUK99207.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99222.1
+EBNA1,XUK99206.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99223.1
+EBNA1,XUK99205.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99223.1
+EBNA1,XUK99204.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99222.1
+EBNA1,XUK99203.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99221.1
+EBNA1,XUK99202.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99221.1
+EBNA1,XUK99201.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99221.1
+EBNA1,XUK99200.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99219.1
+EBNA1,XUK99199.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99219.1
+EBNA1,XUK99198.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99219.1
+EBNA1,XUK99197.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99219.1
+EBNA1,XUK99196.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99196.1
+EBNA1,XUK99195.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99221.1
+EBNA1,XUK99194.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99219.1
+EBNA1,XUK99193.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99219.1
+EBNA1,XUK99192.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99219.1
+EBNA1,XUK99191.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99219.1
+EBNA1,XUK99190.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99219.1
+EBNA1,XUK99189.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99219.1
+EBNA1,XUK99188.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99221.1
+EBNA1,XUK99187.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99219.1
+EBNA1,XUK99186.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99219.1
+EBNA1,XUK99185.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99219.1
+EBNA1,XUK99184.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99184.1
+EBNA1,XUK99183.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99221.1
+EBNA1,XUK99182.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99219.1
+EBNA1,XUK99181.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99219.1
+EBNA1,XUK99180.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99219.1
+EBNA1,XUK99179.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99219.1
+EBNA1,XUK99178.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99178.1
+EBNA1,XUK99177.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99219.1
+EBNA1,XUK99176.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99176.1
+EBNA1,XUK99175.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99219.1
+EBNA1,XUK99174.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99219.1
+EBNA1,XUK99173.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99219.1
+EBNA1,XUK99172.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99219.1
+EBNA1,XUK99171.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99219.1
+EBNA1,XUK99170.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99219.1
+EBNA1,XUK99169.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99219.1
+EBNA1,XUK99168.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99219.1
+EBNA1,XUK99167.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99219.1
+EBNA1,XUK99166.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99219.1
+EBNA1,XUK99165.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99219.1
+EBNA1,XUK99164.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99164.1
+EBNA1,XUK99163.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99221.1
+EBNA1,XUK99162.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99219.1
+EBNA1,XUK99161.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99176.1
+EBNA1,XUK99160.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99219.1
+EBNA1,XUK99159.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99219.1
+EBNA1,XUK99158.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99219.1
+EBNA1,XUK99157.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99221.1
+EBNA1,XUK99156.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99219.1
+EBNA1,XUK99155.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99176.1
+EBNA1,XUK99154.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99219.1
+EBNA1,XUK99153.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99176.1
+EBNA1,XUK99152.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99219.1
+EBNA1,XUK99151.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99219.1
+EBNA1,XUK99150.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99219.1
+EBNA1,XUK99149.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99219.1
+EBNA1,XUK99148.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99148.1
+EBNA1,XUK99147.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99219.1
+EBNA1,XUK99146.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99219.1
+EBNA1,XUK99145.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",71,INCLUDED,ANNOTATION_MATCH,XUK99219.1
+EBNA1,XUK99955.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",68,INCLUDED,ANNOTATION_MATCH,XUK99955.1
+EBNA1,XUK99954.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",49,REVIEW_NONSTANDARD,NONSTANDARD_RESIDUES,
+EBNA1,8DLF_D,"Chain D, Epstein-Barr nuclear antigen 1",160,INCLUDED,ANNOTATION_MATCH,8DLF_D
+EBNA1,8DLF_C,"Chain C, Epstein-Barr nuclear antigen 1",160,INCLUDED,ANNOTATION_MATCH,8DLF_D
+EBNA1,8DLF_B,"Chain B, Epstein-Barr nuclear antigen 1",160,INCLUDED,ANNOTATION_MATCH,8DLF_D
+EBNA1,8DLF_A,"Chain A, Epstein-Barr nuclear antigen 1",160,INCLUDED,ANNOTATION_MATCH,8DLF_D
+EBNA1,XOT88352.1,Epstein-Barr nuclear antigen 1 [human gammaherpesvirus 4],99,INCLUDED,ANNOTATION_MATCH,XOT88352.1
+EBNA1,XMM90059.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",47,INCLUDED,ANNOTATION_MATCH,XMM90059.1
+EBNA1,XMM90058.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",56,INCLUDED,ANNOTATION_MATCH,XMM90058.1
+EBNA1,5WUM_C,"Chain C, Epstein-Barr nuclear antigen 1",9,TOO_SHORT,LENGTH_SCREEN,
+EBNA1,5WUM_B,"Chain B, Epstein-Barr nuclear antigen 1",9,TOO_SHORT,LENGTH_SCREEN,
+EBNA1,7U1T_D,"Chain D, Epstein-Barr nuclear antigen 1",178,INCLUDED,ANNOTATION_MATCH,7U1T_D
+EBNA1,7U1T_C,"Chain C, Epstein-Barr nuclear antigen 1",178,INCLUDED,ANNOTATION_MATCH,7U1T_D
+EBNA1,7U1T_B,"Chain B, Epstein-Barr nuclear antigen 1",178,INCLUDED,ANNOTATION_MATCH,7U1T_D
+EBNA1,7U1T_A,"Chain A, Epstein-Barr nuclear antigen 1",178,INCLUDED,ANNOTATION_MATCH,7U1T_D
+EBNA1,1VHI_B,"Chain B, EPSTEIN BARR VIRUS NUCLEAR ANTIGEN-1",142,INCLUDED,ANNOTATION_MATCH,1VHI_B
+EBNA1,1VHI_A,"Chain A, EPSTEIN BARR VIRUS NUCLEAR ANTIGEN-1",142,INCLUDED,ANNOTATION_MATCH,1VHI_B
+EBNA1,WPO07310.1,"EBNA1, partial [human gammaherpesvirus 4]",168,INCLUDED,ANNOTATION_MATCH,WPO07310.1
+EBNA1,WPO07309.1,"EBNA1, partial [human gammaherpesvirus 4]",168,INCLUDED,ANNOTATION_MATCH,WPO07309.1
+EBNA1,WPO07308.1,"EBNA1, partial [human gammaherpesvirus 4]",168,INCLUDED,ANNOTATION_MATCH,WPO07310.1
+EBNA1,WPO07307.1,"EBNA1, partial [human gammaherpesvirus 4]",168,INCLUDED,ANNOTATION_MATCH,WPO07307.1
+EBNA1,WPO07306.1,"EBNA1, partial [human gammaherpesvirus 4]",168,INCLUDED,ANNOTATION_MATCH,WPO07310.1
+EBNA1,WPO07305.1,"EBNA1, partial [human gammaherpesvirus 4]",168,INCLUDED,ANNOTATION_MATCH,WPO07307.1
+EBNA1,WPO07304.1,"EBNA1, partial [human gammaherpesvirus 4]",168,INCLUDED,ANNOTATION_MATCH,WPO07304.1
+EBNA1,WPO07303.1,"EBNA1, partial [human gammaherpesvirus 4]",168,INCLUDED,ANNOTATION_MATCH,WPO07303.1
+EBNA1,WPO07302.1,"EBNA1, partial [human gammaherpesvirus 4]",168,INCLUDED,ANNOTATION_MATCH,WPO07304.1
+EBNA1,WPO07301.1,"EBNA1, partial [human gammaherpesvirus 4]",168,INCLUDED,ANNOTATION_MATCH,WPO07304.1
+EBNA1,WPO07300.1,"EBNA1, partial [human gammaherpesvirus 4]",168,INCLUDED,ANNOTATION_MATCH,WPO07310.1
+EBNA1,WPO07299.1,"EBNA1, partial [human gammaherpesvirus 4]",168,INCLUDED,ANNOTATION_MATCH,WPO07303.1
+EBNA1,5WUN_C,"Chain C, Epstein-Barr nuclear antigen 1",9,TOO_SHORT,LENGTH_SCREEN,
+EBNA1,5WUN_B,"Chain B, Epstein-Barr nuclear antigen 1",9,TOO_SHORT,LENGTH_SCREEN,
+EBNA1,7K7R_F,"Chain F, EBNA1 peptide AA386-405",20,INCLUDED,ANNOTATION_MATCH,7K7R_F
+EBNA1,7K7R_C,"Chain C, EBNA1 peptide AA386-405",20,INCLUDED,ANNOTATION_MATCH,7K7R_F
+EBNA1,6VH6_B,"Chain B, Epstein-Barr nuclear antigen 1",142,INCLUDED,ANNOTATION_MATCH,1VHI_B
+EBNA1,6VH6_A,"Chain A, Epstein-Barr nuclear antigen 1",142,INCLUDED,ANNOTATION_MATCH,1VHI_B
+EBNA1,6PW2_L,"Chain L, Epstein-Barr nuclear antigen 1",147,INCLUDED,ANNOTATION_MATCH,6PW2_L
+EBNA1,6PW2_K,"Chain K, Epstein-Barr nuclear antigen 1",147,INCLUDED,ANNOTATION_MATCH,6PW2_L
+EBNA1,6PW2_J,"Chain J, Epstein-Barr nuclear antigen 1",147,INCLUDED,ANNOTATION_MATCH,6PW2_L
+EBNA1,6PW2_I,"Chain I, Epstein-Barr nuclear antigen 1",147,INCLUDED,ANNOTATION_MATCH,6PW2_L
+EBNA1,6PW2_D,"Chain D, Epstein-Barr nuclear antigen 1",147,INCLUDED,ANNOTATION_MATCH,6PW2_L
+EBNA1,6PW2_C,"Chain C, Epstein-Barr nuclear antigen 1",147,INCLUDED,ANNOTATION_MATCH,6PW2_L
+EBNA1,6PW2_B,"Chain B, Epstein-Barr nuclear antigen 1",147,INCLUDED,ANNOTATION_MATCH,6PW2_L
+EBNA1,6PW2_A,"Chain A, Epstein-Barr nuclear antigen 1",147,INCLUDED,ANNOTATION_MATCH,6PW2_L
+EBNA1,6NPP_B,"Chain B, EBNA1",134,INCLUDED,ANNOTATION_MATCH,6NPP_B
+EBNA1,6NPP_A,"Chain A, Epstein-Barr nuclear antigen 1",141,INCLUDED,ANNOTATION_MATCH,6NPP_A
+EBNA1,6NPM_B,"Chain B, Epstein-Barr nuclear antigen 1",141,INCLUDED,ANNOTATION_MATCH,6NPP_A
+EBNA1,6NPM_A,"Chain A, Epstein-Barr nuclear antigen 1",141,INCLUDED,ANNOTATION_MATCH,6NPP_A
+EBNA1,6NPI_B,"Chain B, Epstein-Barr nuclear antigen 1",141,INCLUDED,ANNOTATION_MATCH,6NPP_A
+EBNA1,6NPI_A,"Chain A, Epstein-Barr nuclear antigen 1",141,INCLUDED,ANNOTATION_MATCH,6NPP_A
+EBNA1,5WMF_F,"Chain F, Epstein-Barr nuclear antigen 1",154,INCLUDED,ANNOTATION_MATCH,5WMF_F
+EBNA1,5WMF_E,"Chain E, Epstein-Barr nuclear antigen 1",154,INCLUDED,ANNOTATION_MATCH,5WMF_F
+EBNA1,5WMF_D,"Chain D, Epstein-Barr nuclear antigen 1",154,INCLUDED,ANNOTATION_MATCH,5WMF_F
+EBNA1,5WMF_C,"Chain C, Epstein-Barr nuclear antigen 1",154,INCLUDED,ANNOTATION_MATCH,5WMF_F
+EBNA1,5WMF_B,"Chain B, Epstein-Barr nuclear antigen 1",154,INCLUDED,ANNOTATION_MATCH,5WMF_F
+EBNA1,5WMF_A,"Chain A, Epstein-Barr nuclear antigen 1",154,INCLUDED,ANNOTATION_MATCH,5WMF_F
+EBNA1,5T7X_B,"Chain B, Epstein-Barr nuclear antigen 1",149,INCLUDED,ANNOTATION_MATCH,5T7X_B
+EBNA1,5T7X_A,"Chain A, Epstein-Barr nuclear antigen 1",149,INCLUDED,ANNOTATION_MATCH,5T7X_B
+EBNA1,WNA16439.1,"EBV nuclear antigen 1 protein, partial [human gammaherpesvirus 4]",110,INCLUDED,ANNOTATION_MATCH,WNA16439.1
+EBNA1,WNA16438.1,"EBV nuclear antigen 1 protein, partial [human gammaherpesvirus 4]",110,INCLUDED,ANNOTATION_MATCH,WNA16439.1
+EBNA1,WNA16437.1,"EBV nuclear antigen 1 protein, partial [human gammaherpesvirus 4]",110,INCLUDED,ANNOTATION_MATCH,WNA16437.1
+EBNA1,WNA16436.1,"EBV nuclear antigen 1 protein, partial [human gammaherpesvirus 4]",110,INCLUDED,ANNOTATION_MATCH,WNA16439.1
+EBNA1,WNA16435.1,"EBV nuclear antigen 1 protein, partial [human gammaherpesvirus 4]",110,INCLUDED,ANNOTATION_MATCH,WNA16439.1
+EBNA1,WLF85489.1,"EBNA1, partial [human gammaherpesvirus 4]",67,INCLUDED,ANNOTATION_MATCH,WLF85489.1
+EBNA1,1B3T_B,"Chain B, PROTEIN (NUCLEAR PROTEIN EBNA1)",147,INCLUDED,ANNOTATION_MATCH,6PW2_L
+EBNA1,1B3T_A,"Chain A, PROTEIN (NUCLEAR PROTEIN EBNA1)",147,INCLUDED,ANNOTATION_MATCH,6PW2_L
+EBNA1,WJN57100.1,"EBNA-1, partial [human gammaherpesvirus 4]",217,INCLUDED,ANNOTATION_MATCH,WJN57100.1
+EBNA1,WJN57099.1,"EBNA-1, partial [human gammaherpesvirus 4]",220,INCLUDED,ANNOTATION_MATCH,WJN57099.1
+EBNA1,WJN57098.1,"EBNA-1, partial [human gammaherpesvirus 4]",221,INCLUDED,ANNOTATION_MATCH,WJN57098.1
+EBNA1,WJN57097.1,"EBNA-1, partial [human gammaherpesvirus 4]",217,INCLUDED,ANNOTATION_MATCH,WJN57097.1
+EBNA1,WGF13391.1,"EBNA-1, partial [human gammaherpesvirus 4]",228,INCLUDED,ANNOTATION_MATCH,WGF13391.1
+EBNA1,WDE20485.1,"EBNA1, partial [human gammaherpesvirus 4]",241,INCLUDED,ANNOTATION_MATCH,WDE20485.1
+EBNA1,WDE20484.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,WDE20484.1
+EBNA1,WDE20483.1,"EBNA1, partial [human gammaherpesvirus 4]",241,INCLUDED,ANNOTATION_MATCH,WDE20483.1
+EBNA1,WDE20482.1,"EBNA1, partial [human gammaherpesvirus 4]",241,INCLUDED,ANNOTATION_MATCH,WDE20482.1
+EBNA1,WDE20481.1,"EBNA1, partial [human gammaherpesvirus 4]",241,INCLUDED,ANNOTATION_MATCH,WDE20482.1
+EBNA1,WDE20480.1,"EBNA1, partial [human gammaherpesvirus 4]",241,INCLUDED,ANNOTATION_MATCH,WDE20480.1
+EBNA1,WDE20479.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,WDE20479.1
+EBNA1,WDE20478.1,"EBNA1, partial [human gammaherpesvirus 4]",241,INCLUDED,ANNOTATION_MATCH,WDE20478.1
+EBNA1,WDE20477.1,"EBNA1, partial [human gammaherpesvirus 4]",241,INCLUDED,ANNOTATION_MATCH,WDE20478.1
+EBNA1,WDE20476.1,"EBNA1, partial [human gammaherpesvirus 4]",241,INCLUDED,ANNOTATION_MATCH,WDE20482.1
+EBNA1,WDE20475.1,"EBNA1, partial [human gammaherpesvirus 4]",241,INCLUDED,ANNOTATION_MATCH,WDE20475.1
+EBNA1,WDE20474.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,WDE20474.1
+EBNA1,WDE20473.1,"EBNA1, partial [human gammaherpesvirus 4]",241,INCLUDED,ANNOTATION_MATCH,WDE20482.1
+EBNA1,WDE20472.1,"EBNA1, partial [human gammaherpesvirus 4]",241,INCLUDED,ANNOTATION_MATCH,WDE20482.1
+EBNA1,WDE20471.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,WDE20484.1
+EBNA1,WDE20470.1,"EBNA1, partial [human gammaherpesvirus 4]",241,INCLUDED,ANNOTATION_MATCH,WDE20470.1
+EBNA1,WDE20469.1,"EBNA1, partial [human gammaherpesvirus 4]",241,INCLUDED,ANNOTATION_MATCH,WDE20470.1
+EBNA1,WDE20468.1,"EBNA1, partial [human gammaherpesvirus 4]",241,INCLUDED,ANNOTATION_MATCH,WDE20478.1
+EBNA1,WDE20467.1,"EBNA1, partial [human gammaherpesvirus 4]",241,INCLUDED,ANNOTATION_MATCH,WDE20470.1
+EBNA1,WDE20466.1,"EBNA1, partial [human gammaherpesvirus 4]",241,INCLUDED,ANNOTATION_MATCH,WDE20482.1
+EBNA1,WDE20465.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,WDE20465.1
+EBNA1,WDE20464.1,"EBNA1, partial [human gammaherpesvirus 4]",241,INCLUDED,ANNOTATION_MATCH,WDE20482.1
+EBNA1,WDE20463.1,"EBNA1, partial [human gammaherpesvirus 4]",241,INCLUDED,ANNOTATION_MATCH,WDE20463.1
+EBNA1,WDE20462.1,"EBNA1, partial [human gammaherpesvirus 4]",241,INCLUDED,ANNOTATION_MATCH,WDE20470.1
+EBNA1,WDE20461.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,WDE20461.1
+EBNA1,WDE20460.1,"EBNA1, partial [human gammaherpesvirus 4]",241,INCLUDED,ANNOTATION_MATCH,WDE20460.1
+EBNA1,WDE20459.1,"EBNA1, partial [human gammaherpesvirus 4]",241,INCLUDED,ANNOTATION_MATCH,WDE20482.1
+EBNA1,WDE20458.1,"EBNA1, partial [human gammaherpesvirus 4]",241,INCLUDED,ANNOTATION_MATCH,WDE20482.1
+EBNA1,WDE20457.1,"EBNA1, partial [human gammaherpesvirus 4]",241,INCLUDED,ANNOTATION_MATCH,WDE20482.1
+EBNA1,WDE20456.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,WDE20479.1
+EBNA1,WDE20455.1,"EBNA1, partial [human gammaherpesvirus 4]",241,INCLUDED,ANNOTATION_MATCH,WDE20455.1
+EBNA1,WDE20454.1,"EBNA1, partial [human gammaherpesvirus 4]",241,INCLUDED,ANNOTATION_MATCH,WDE20478.1
+EBNA1,ATO60606.1,EBNA1 protein [human gammaherpesvirus 4],663,INCLUDED,ANNOTATION_MATCH,ATO60606.1
+EBNA1,ATO60536.1,EBNA1 protein [human gammaherpesvirus 4],663,INCLUDED,ANNOTATION_MATCH,ATO60536.1
+EBNA1,ATO60144.1,EBNA1 protein [human gammaherpesvirus 4],642,INCLUDED,ANNOTATION_MATCH,ATO60144.1
+EBNA1,ATO59815.1,EBNA1 protein [human gammaherpesvirus 4],625,INCLUDED,ANNOTATION_MATCH,ATO59815.1
+EBNA1,QGW48938.1,"EBNA1, partial [human gammaherpesvirus 4]",166,INCLUDED,ANNOTATION_MATCH,QGW48938.1
+EBNA1,QGW48937.1,"EBNA1, partial [human gammaherpesvirus 4]",166,INCLUDED,ANNOTATION_MATCH,QGW48937.1
+EBNA1,QGW48936.1,"EBNA1, partial [human gammaherpesvirus 4]",166,INCLUDED,ANNOTATION_MATCH,QGW48936.1
+EBNA1,QGW48935.1,"EBNA1, partial [human gammaherpesvirus 4]",166,INCLUDED,ANNOTATION_MATCH,QGW48935.1
+EBNA1,QGW48934.1,"EBNA1, partial [human gammaherpesvirus 4]",166,INCLUDED,ANNOTATION_MATCH,QGW48935.1
+EBNA1,QGW48933.1,"EBNA1, partial [human gammaherpesvirus 4]",166,INCLUDED,ANNOTATION_MATCH,QGW48933.1
+EBNA1,QGW48932.1,"EBNA1, partial [human gammaherpesvirus 4]",166,INCLUDED,ANNOTATION_MATCH,QGW48932.1
+EBNA1,QGW48931.1,"EBNA1, partial [human gammaherpesvirus 4]",166,INCLUDED,ANNOTATION_MATCH,QGW48935.1
+EBNA1,QGW48930.1,"EBNA1, partial [human gammaherpesvirus 4]",166,INCLUDED,ANNOTATION_MATCH,QGW48935.1
+EBNA1,QGW48929.1,"EBNA1, partial [human gammaherpesvirus 4]",166,INCLUDED,ANNOTATION_MATCH,QGW48935.1
+EBNA1,QGW48928.1,"EBNA1, partial [human gammaherpesvirus 4]",166,INCLUDED,ANNOTATION_MATCH,QGW48935.1
+EBNA1,QGW48927.1,"EBNA1, partial [human gammaherpesvirus 4]",166,INCLUDED,ANNOTATION_MATCH,QGW48935.1
+EBNA1,QGW48926.1,"EBNA1, partial [human gammaherpesvirus 4]",166,INCLUDED,ANNOTATION_MATCH,QGW48935.1
+EBNA1,QGW48925.1,"EBNA1, partial [human gammaherpesvirus 4]",166,INCLUDED,ANNOTATION_MATCH,QGW48935.1
+EBNA1,QGW48924.1,"EBNA1, partial [human gammaherpesvirus 4]",166,INCLUDED,ANNOTATION_MATCH,QGW48935.1
+EBNA1,QGW48923.1,"EBNA1, partial [human gammaherpesvirus 4]",166,INCLUDED,ANNOTATION_MATCH,QGW48935.1
+EBNA1,QGW48922.1,"EBNA1, partial [human gammaherpesvirus 4]",166,REVIEW_NONSTANDARD,NONSTANDARD_RESIDUES,
+EBNA1,QGW48921.1,"EBNA1, partial [human gammaherpesvirus 4]",166,INCLUDED,ANNOTATION_MATCH,QGW48921.1
+EBNA1,QGW48920.1,"EBNA1, partial [human gammaherpesvirus 4]",166,INCLUDED,ANNOTATION_MATCH,QGW48935.1
+EBNA1,QGW48919.1,"EBNA1, partial [human gammaherpesvirus 4]",166,INCLUDED,ANNOTATION_MATCH,QGW48935.1
+EBNA1,QGW48918.1,"EBNA1, partial [human gammaherpesvirus 4]",166,INCLUDED,ANNOTATION_MATCH,QGW48935.1
+EBNA1,QGW48917.1,"EBNA1, partial [human gammaherpesvirus 4]",166,INCLUDED,ANNOTATION_MATCH,QGW48935.1
+EBNA1,QGW48916.1,"EBNA1, partial [human gammaherpesvirus 4]",166,INCLUDED,ANNOTATION_MATCH,QGW48935.1
+EBNA1,QGW48915.1,"EBNA1, partial [human gammaherpesvirus 4]",166,INCLUDED,ANNOTATION_MATCH,QGW48935.1
+EBNA1,QGW48914.1,"EBNA1, partial [human gammaherpesvirus 4]",166,INCLUDED,ANNOTATION_MATCH,QGW48935.1
+EBNA1,QGW48913.1,"EBNA1, partial [human gammaherpesvirus 4]",166,INCLUDED,ANNOTATION_MATCH,QGW48935.1
+EBNA1,QGW48912.1,"EBNA1, partial [human gammaherpesvirus 4]",166,INCLUDED,ANNOTATION_MATCH,QGW48935.1
+EBNA1,QGW48911.1,"EBNA1, partial [human gammaherpesvirus 4]",166,INCLUDED,ANNOTATION_MATCH,QGW48911.1
+EBNA1,QGW48910.1,"EBNA1, partial [human gammaherpesvirus 4]",166,INCLUDED,ANNOTATION_MATCH,QGW48936.1
+EBNA1,QGW48909.1,"EBNA1, partial [human gammaherpesvirus 4]",166,INCLUDED,ANNOTATION_MATCH,QGW48933.1
+EBNA1,QGW48908.1,"EBNA1, partial [human gammaherpesvirus 4]",166,INCLUDED,ANNOTATION_MATCH,QGW48935.1
+EBNA1,QGW48907.1,"EBNA1, partial [human gammaherpesvirus 4]",166,INCLUDED,ANNOTATION_MATCH,QGW48935.1
+EBNA1,QGW48906.1,"EBNA1, partial [human gammaherpesvirus 4]",166,INCLUDED,ANNOTATION_MATCH,QGW48935.1
+EBNA1,QHE24186.1,EBNA1 [human gammaherpesvirus 4],689,INCLUDED,ANNOTATION_MATCH,QHE24186.1
+EBNA1,QHE24171.1,EBNA1 protein [human gammaherpesvirus 4],689,INCLUDED,ANNOTATION_MATCH,QHE24186.1
+EBNA1,QHE24086.1,EBNA1 protein [human gammaherpesvirus 4],645,REVIEW_NONSTANDARD,NONSTANDARD_RESIDUES,
+EBNA1,BBJ06441.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",188,INCLUDED,ANNOTATION_MATCH,BBJ06441.1
+EBNA1,QBH74595.1,"EBNA1, partial [human gammaherpesvirus 4]",249,INCLUDED,ANNOTATION_MATCH,QBH74595.1
+EBNA1,QBH74594.1,"EBNA1, partial [human gammaherpesvirus 4]",249,INCLUDED,ANNOTATION_MATCH,QBH74594.1
+EBNA1,QBH74593.1,"EBNA1, partial [human gammaherpesvirus 4]",249,INCLUDED,ANNOTATION_MATCH,QBH74593.1
+EBNA1,QBH74592.1,"EBNA1, partial [human gammaherpesvirus 4]",249,INCLUDED,ANNOTATION_MATCH,QBH74595.1
+EBNA1,QBH74591.1,"EBNA1, partial [human gammaherpesvirus 4]",249,INCLUDED,ANNOTATION_MATCH,QBH74595.1
+EBNA1,QBH74590.1,"EBNA1, partial [human gammaherpesvirus 4]",249,INCLUDED,ANNOTATION_MATCH,QBH74590.1
+EBNA1,QBH74589.1,"EBNA1, partial [human gammaherpesvirus 4]",249,INCLUDED,ANNOTATION_MATCH,QBH74594.1
+EBNA1,QBH74588.1,"EBNA1, partial [human gammaherpesvirus 4]",249,INCLUDED,ANNOTATION_MATCH,QBH74588.1
+EBNA1,QBH74587.1,"EBNA1, partial [human gammaherpesvirus 4]",249,INCLUDED,ANNOTATION_MATCH,QBH74594.1
+EBNA1,QBH74586.1,"EBNA1, partial [human gammaherpesvirus 4]",249,INCLUDED,ANNOTATION_MATCH,QBH74594.1
+EBNA1,QBH74585.1,"EBNA1, partial [human gammaherpesvirus 4]",249,INCLUDED,ANNOTATION_MATCH,QBH74585.1
+EBNA1,QBH74584.1,"EBNA1, partial [human gammaherpesvirus 4]",249,INCLUDED,ANNOTATION_MATCH,QBH74584.1
+EBNA1,QBH74583.1,"EBNA1, partial [human gammaherpesvirus 4]",249,INCLUDED,ANNOTATION_MATCH,QBH74583.1
+EBNA1,QBH74582.1,"EBNA1, partial [human gammaherpesvirus 4]",249,INCLUDED,ANNOTATION_MATCH,QBH74594.1
+EBNA1,QBH74581.1,"EBNA1, partial [human gammaherpesvirus 4]",249,INCLUDED,ANNOTATION_MATCH,QBH74585.1
+EBNA1,QBH74580.1,"EBNA1, partial [human gammaherpesvirus 4]",249,INCLUDED,ANNOTATION_MATCH,QBH74580.1
+EBNA1,QBH74579.1,"EBNA1, partial [human gammaherpesvirus 4]",248,INCLUDED,ANNOTATION_MATCH,QBH74579.1
+EBNA1,QBH74578.1,"EBNA1, partial [human gammaherpesvirus 4]",249,INCLUDED,ANNOTATION_MATCH,QBH74594.1
+EBNA1,QBH74577.1,"EBNA1, partial [human gammaherpesvirus 4]",249,INCLUDED,ANNOTATION_MATCH,QBH74594.1
+EBNA1,QBH74576.1,"EBNA1, partial [human gammaherpesvirus 4]",249,REVIEW_NONSTANDARD,NONSTANDARD_RESIDUES,
+EBNA1,QBH74575.1,"EBNA1, partial [human gammaherpesvirus 4]",249,INCLUDED,ANNOTATION_MATCH,QBH74575.1
+EBNA1,QBH74574.1,"EBNA1, partial [human gammaherpesvirus 4]",249,INCLUDED,ANNOTATION_MATCH,QBH74594.1
+EBNA1,QBH74573.1,"EBNA1, partial [human gammaherpesvirus 4]",249,INCLUDED,ANNOTATION_MATCH,QBH74595.1
+EBNA1,QBH74572.1,"EBNA1, partial [human gammaherpesvirus 4]",249,INCLUDED,ANNOTATION_MATCH,QBH74594.1
+EBNA1,QBH74571.1,"EBNA1, partial [human gammaherpesvirus 4]",249,INCLUDED,ANNOTATION_MATCH,QBH74594.1
+EBNA1,QBH74570.1,"EBNA1, partial [human gammaherpesvirus 4]",249,INCLUDED,ANNOTATION_MATCH,QBH74595.1
+EBNA1,QBH74569.1,"EBNA1, partial [human gammaherpesvirus 4]",249,INCLUDED,ANNOTATION_MATCH,QBH74595.1
+EBNA1,QBH74568.1,"EBNA1, partial [human gammaherpesvirus 4]",249,INCLUDED,ANNOTATION_MATCH,QBH74594.1
+EBNA1,QBH74567.1,"EBNA1, partial [human gammaherpesvirus 4]",249,INCLUDED,ANNOTATION_MATCH,QBH74590.1
+EBNA1,QBH74566.1,"EBNA1, partial [human gammaherpesvirus 4]",249,INCLUDED,ANNOTATION_MATCH,QBH74566.1
+EBNA1,QBH74565.1,"EBNA1, partial [human gammaherpesvirus 4]",249,INCLUDED,ANNOTATION_MATCH,QBH74580.1
+EBNA1,QBH74564.1,"EBNA1, partial [human gammaherpesvirus 4]",249,INCLUDED,ANNOTATION_MATCH,QBH74594.1
+EBNA1,QBH74563.1,"EBNA1, partial [human gammaherpesvirus 4]",249,INCLUDED,ANNOTATION_MATCH,QBH74594.1
+EBNA1,AXZ97453.1,"nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97453.1
+EBNA1,AXZ97452.1,"nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97452.1
+EBNA1,AXZ97451.1,"nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97452.1
+EBNA1,AXZ97450.1,"nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97452.1
+EBNA1,AXZ97449.1,"nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97449.1
+EBNA1,AXZ97448.1,"nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97448.1
+EBNA1,AXZ97447.1,"nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97452.1
+EBNA1,AXZ97446.1,"nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97446.1
+EBNA1,AXZ97445.1,"nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97446.1
+EBNA1,AXZ97444.1,"nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97452.1
+EBNA1,AXZ97443.1,"nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97452.1
+EBNA1,AXZ97442.1,"nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97452.1
+EBNA1,AXZ97441.1,"nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97446.1
+EBNA1,AXZ97440.1,"nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97446.1
+EBNA1,AXZ97439.1,"nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97439.1
+EBNA1,AXZ97438.1,"nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97438.1
+EBNA1,AXZ97437.1,"nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97452.1
+EBNA1,AXZ97436.1,"nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97452.1
+EBNA1,AXZ97435.1,"nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97446.1
+EBNA1,AXZ97434.1,"nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97446.1
+EBNA1,AXZ97433.1,"nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97452.1
+EBNA1,AXZ97432.1,"nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97446.1
+EBNA1,AXZ97431.1,"nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97452.1
+EBNA1,AXZ97430.1,"nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97452.1
+EBNA1,AXZ97429.1,"nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97452.1
+EBNA1,AXZ97428.1,"nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97452.1
+EBNA1,AXZ97427.1,"nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97446.1
+EBNA1,AXZ97426.1,"nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97452.1
+EBNA1,AXZ97425.1,"nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97452.1
+EBNA1,AXZ97424.1,"nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97446.1
+EBNA1,AXZ97423.1,"nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97452.1
+EBNA1,AXZ97422.1,"nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97452.1
+EBNA1,AXZ97421.1,"nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97446.1
+EBNA1,AXZ97420.1,"nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97452.1
+EBNA1,AXZ97419.1,"nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97446.1
+EBNA1,AXZ97418.1,"nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97452.1
+EBNA1,AXZ97417.1,"nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97452.1
+EBNA1,AXZ97416.1,"nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97416.1
+EBNA1,AXZ97415.1,"nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97446.1
+EBNA1,AXZ97414.1,"nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97452.1
+EBNA1,AXZ97413.1,"nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97446.1
+EBNA1,AXZ97412.1,"nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97452.1
+EBNA1,AXZ97411.1,"nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97446.1
+EBNA1,AXZ97410.1,"nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97452.1
+EBNA1,AXZ97409.1,"nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97446.1
+EBNA1,AXZ97408.1,"nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97452.1
+EBNA1,ATO60751.1,EBNA1 protein [human gammaherpesvirus 4],612,INCLUDED,ANNOTATION_MATCH,ATO60751.1
+EBNA1,ATO60466.1,EBNA1 protein [human gammaherpesvirus 4],663,INCLUDED,ANNOTATION_MATCH,ATO60466.1
+EBNA1,ATO60390.1,EBNA1 protein [human gammaherpesvirus 4],641,INCLUDED,ANNOTATION_MATCH,Q1HVF7.1
+EBNA1,ATO60308.1,EBNA1 protein [human gammaherpesvirus 4],635,INCLUDED,ANNOTATION_MATCH,ATO60308.1
+EBNA1,ATO60226.1,EBNA1 protein [human gammaherpesvirus 4],641,INCLUDED,ANNOTATION_MATCH,ATO60226.1
+EBNA1,ATO60062.1,EBNA1 protein [human gammaherpesvirus 4],641,INCLUDED,ANNOTATION_MATCH,ATO60062.1
+EBNA1,ATO59979.1,EBNA1 protein [human gammaherpesvirus 4],597,INCLUDED,ANNOTATION_MATCH,ATO59979.1
+EBNA1,ATO59898.1,EBNA1 protein [human gammaherpesvirus 4],625,INCLUDED,ANNOTATION_MATCH,ATO59898.1
+EBNA1,APT70066.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",67,INCLUDED,ANNOTATION_MATCH,APT70066.1
+EBNA1,APT70065.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",66,INCLUDED,ANNOTATION_MATCH,APT70065.1
+EBNA1,AME17176.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",92,INCLUDED,ANNOTATION_MATCH,AME17176.1
+EBNA1,AME17175.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",92,INCLUDED,ANNOTATION_MATCH,AME17176.1
+EBNA1,AME17174.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",92,INCLUDED,ANNOTATION_MATCH,AME17176.1
+EBNA1,AME17173.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",92,INCLUDED,ANNOTATION_MATCH,AME17176.1
+EBNA1,AME17172.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",92,INCLUDED,ANNOTATION_MATCH,AME17176.1
+EBNA1,AME17171.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",92,INCLUDED,ANNOTATION_MATCH,AME17176.1
+EBNA1,AME17170.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",92,INCLUDED,ANNOTATION_MATCH,AME17170.1
+EBNA1,AME17169.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",92,INCLUDED,ANNOTATION_MATCH,AME17170.1
+EBNA1,AME17168.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",92,INCLUDED,ANNOTATION_MATCH,AME17170.1
+EBNA1,AME17167.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",92,INCLUDED,ANNOTATION_MATCH,AME17170.1
+EBNA1,AME17166.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",92,INCLUDED,ANNOTATION_MATCH,AME17170.1
+EBNA1,AME17165.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",92,INCLUDED,ANNOTATION_MATCH,AME17170.1
+EBNA1,AME17164.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",92,INCLUDED,ANNOTATION_MATCH,AME17170.1
+EBNA1,AME17163.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",92,INCLUDED,ANNOTATION_MATCH,AME17170.1
+EBNA1,AME17162.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",92,INCLUDED,ANNOTATION_MATCH,AME17170.1
+EBNA1,AME17161.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",92,INCLUDED,ANNOTATION_MATCH,AME17170.1
+EBNA1,AME17160.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",92,INCLUDED,ANNOTATION_MATCH,AME17170.1
+EBNA1,AME17159.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",92,INCLUDED,ANNOTATION_MATCH,AME17170.1
+EBNA1,AME17158.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",92,INCLUDED,ANNOTATION_MATCH,AME17170.1
+EBNA1,AME17157.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",92,INCLUDED,ANNOTATION_MATCH,AME17170.1
+EBNA1,AME17156.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",92,INCLUDED,ANNOTATION_MATCH,AME17170.1
+EBNA1,AME17155.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",92,INCLUDED,ANNOTATION_MATCH,AME17170.1
+EBNA1,AME17154.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",92,INCLUDED,ANNOTATION_MATCH,AME17170.1
+EBNA1,AME17153.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",92,INCLUDED,ANNOTATION_MATCH,AME17170.1
+EBNA1,AME17152.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",92,INCLUDED,ANNOTATION_MATCH,AME17152.1
+EBNA1,AME17151.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",92,INCLUDED,ANNOTATION_MATCH,AME17152.1
+EBNA1,AME17150.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",92,REVIEW_NONSTANDARD,NONSTANDARD_RESIDUES,
+EBNA1,AME17149.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",92,INCLUDED,ANNOTATION_MATCH,AME17152.1
+EBNA1,AME17148.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",92,INCLUDED,ANNOTATION_MATCH,AME17152.1
+EBNA1,AME17147.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",92,INCLUDED,ANNOTATION_MATCH,AME17152.1
+EBNA1,AME17146.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",92,INCLUDED,ANNOTATION_MATCH,AME17152.1
+EBNA1,AME17145.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",92,INCLUDED,ANNOTATION_MATCH,AME17152.1
+EBNA1,AME17144.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",92,INCLUDED,ANNOTATION_MATCH,AME17152.1
+EBNA1,AME17143.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",92,INCLUDED,ANNOTATION_MATCH,AME17152.1
+EBNA1,AME17142.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",92,INCLUDED,ANNOTATION_MATCH,AME17152.1
+EBNA1,AME17141.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",92,INCLUDED,ANNOTATION_MATCH,AME17152.1
+EBNA1,AME17140.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",222,INCLUDED,ANNOTATION_MATCH,AME17140.1
+EBNA1,AME17139.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",173,INCLUDED,ANNOTATION_MATCH,AME17139.1
+EBNA1,AME17138.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",163,INCLUDED,ANNOTATION_MATCH,AME17138.1
+EBNA1,AME17137.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",174,INCLUDED,ANNOTATION_MATCH,AME17137.1
+EBNA1,AME17136.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",227,INCLUDED,ANNOTATION_MATCH,AME17136.1
+EBNA1,AME17135.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",226,INCLUDED,ANNOTATION_MATCH,AME17135.1
+EBNA1,AME17134.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",219,INCLUDED,ANNOTATION_MATCH,AME17134.1
+EBNA1,AME17133.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",222,INCLUDED,ANNOTATION_MATCH,AME17133.1
+EBNA1,AME17132.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",227,INCLUDED,ANNOTATION_MATCH,AME17136.1
+EBNA1,AME17131.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",224,REVIEW_NONSTANDARD,NONSTANDARD_RESIDUES,
+EBNA1,AME17130.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",227,INCLUDED,ANNOTATION_MATCH,AME17130.1
+EBNA1,AME17129.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",175,INCLUDED,ANNOTATION_MATCH,AME17129.1
+EBNA1,AME17128.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",222,INCLUDED,ANNOTATION_MATCH,AME17128.1
+EBNA1,AME17127.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",227,INCLUDED,ANNOTATION_MATCH,AME17127.1
+EBNA1,AME17126.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",227,INCLUDED,ANNOTATION_MATCH,AME17127.1
+EBNA1,AME17125.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",210,INCLUDED,ANNOTATION_MATCH,AME17125.1
+EBNA1,AME17124.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",204,REVIEW_NONSTANDARD,NONSTANDARD_RESIDUES,
+EBNA1,AME17123.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",227,INCLUDED,ANNOTATION_MATCH,AME17123.1
+EBNA1,AME17122.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",227,INCLUDED,ANNOTATION_MATCH,AME17127.1
+EBNA1,AME17121.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",210,INCLUDED,ANNOTATION_MATCH,AME17125.1
+EBNA1,AME17120.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",227,INCLUDED,ANNOTATION_MATCH,AME17127.1
+EBNA1,AME17119.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",223,INCLUDED,ANNOTATION_MATCH,AME17119.1
+EBNA1,AME17118.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",221,INCLUDED,ANNOTATION_MATCH,AME17118.1
+EBNA1,AME17117.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",227,INCLUDED,ANNOTATION_MATCH,AME17127.1
+EBNA1,AME17116.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",225,INCLUDED,ANNOTATION_MATCH,AME17116.1
+EBNA1,AME17115.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",227,INCLUDED,ANNOTATION_MATCH,AME17127.1
+EBNA1,AME17114.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",163,REVIEW_NONSTANDARD,NONSTANDARD_RESIDUES,
+EBNA1,AME17113.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",147,REVIEW_NONSTANDARD,NONSTANDARD_RESIDUES,
+EBNA1,AME17112.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",227,INCLUDED,ANNOTATION_MATCH,AME17127.1
+EBNA1,AME17111.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",227,INCLUDED,ANNOTATION_MATCH,AME17127.1
+EBNA1,AME17110.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",174,INCLUDED,ANNOTATION_MATCH,AME17110.1
+EBNA1,AME17109.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",157,INCLUDED,ANNOTATION_MATCH,AME17109.1
+EBNA1,AME17108.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",204,REVIEW_NONSTANDARD,NONSTANDARD_RESIDUES,
+EBNA1,AME17107.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",172,INCLUDED,ANNOTATION_MATCH,AME17107.1
+EBNA1,AME17106.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",169,INCLUDED,ANNOTATION_MATCH,AME17106.1
+EBNA1,AME17105.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",201,INCLUDED,ANNOTATION_MATCH,AME17105.1
+EBNA1,AME17104.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",219,INCLUDED,ANNOTATION_MATCH,AME17104.1
+EBNA1,AME17103.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",173,INCLUDED,ANNOTATION_MATCH,AME17103.1
+EBNA1,AME17102.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",227,INCLUDED,ANNOTATION_MATCH,AME17127.1
+EBNA1,AME17101.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",227,INCLUDED,ANNOTATION_MATCH,AME17127.1
+EBNA1,AME17100.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",176,INCLUDED,ANNOTATION_MATCH,AME17100.1
+EBNA1,AME17099.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",227,INCLUDED,ANNOTATION_MATCH,AME17127.1
+EBNA1,AME17098.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",172,INCLUDED,ANNOTATION_MATCH,AME17107.1
+EBNA1,AME17097.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",209,INCLUDED,ANNOTATION_MATCH,AME17097.1
+EBNA1,AME17096.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",227,INCLUDED,ANNOTATION_MATCH,AME17127.1
+EBNA1,AME17095.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",173,INCLUDED,ANNOTATION_MATCH,AME17095.1
+EBNA1,AME17094.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",227,REVIEW_NONSTANDARD,NONSTANDARD_RESIDUES,
+EBNA1,AME17093.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",227,INCLUDED,ANNOTATION_MATCH,AME17093.1
+EBNA1,AME17092.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",227,INCLUDED,ANNOTATION_MATCH,AME17127.1
+EBNA1,AME17091.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",227,INCLUDED,ANNOTATION_MATCH,AME17091.1
+EBNA1,AME17090.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",227,INCLUDED,ANNOTATION_MATCH,AME17091.1
+EBNA1,AME17089.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",227,INCLUDED,ANNOTATION_MATCH,AME17089.1
+EBNA1,AME17088.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",227,INCLUDED,ANNOTATION_MATCH,AME17127.1
+EBNA1,APG42669.1,"EBNA1, partial [human gammaherpesvirus 4]",68,INCLUDED,ANNOTATION_MATCH,APG42669.1
+EBNA1,APG42668.1,"EBNA1, partial [human gammaherpesvirus 4]",68,INCLUDED,ANNOTATION_MATCH,APG42668.1
+EBNA1,APD76303.1,"EBNA1, partial [human gammaherpesvirus 4]",70,INCLUDED,ANNOTATION_MATCH,APD76303.1
+EBNA1,AAV98374.1,"EBNA1, partial [human gammaherpesvirus 4]",237,INCLUDED,ANNOTATION_MATCH,AAV98374.1
+EBNA1,ADN65326.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",100,INCLUDED,ANNOTATION_MATCH,ADN65326.1
+EBNA1,ADN65325.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",102,INCLUDED,ANNOTATION_MATCH,ADN65325.1
+EBNA1,ADN65324.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",101,INCLUDED,ANNOTATION_MATCH,ADN65324.1
+EBNA1,ADN65323.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",102,INCLUDED,ANNOTATION_MATCH,ADN65323.1
+EBNA1,ADN65322.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",97,INCLUDED,ANNOTATION_MATCH,ADN65322.1
+EBNA1,ADN65321.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",102,INCLUDED,ANNOTATION_MATCH,ADN65321.1
+EBNA1,ADN65320.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",102,INCLUDED,ANNOTATION_MATCH,ADN65321.1
+EBNA1,ADN65319.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",102,INCLUDED,ANNOTATION_MATCH,ADN65321.1
+EBNA1,ADN65318.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",102,INCLUDED,ANNOTATION_MATCH,ADN65318.1
+EBNA1,ADN65317.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",86,INCLUDED,ANNOTATION_MATCH,ADN65317.1
+EBNA1,ADN65316.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",102,INCLUDED,ANNOTATION_MATCH,ADN65316.1
+EBNA1,ADN65315.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",85,INCLUDED,ANNOTATION_MATCH,ADN65315.1
+EBNA1,ADN65314.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",102,INCLUDED,ANNOTATION_MATCH,ADN65314.1
+EBNA1,ADN65313.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",102,INCLUDED,ANNOTATION_MATCH,ADN65313.1
+EBNA1,ADN65312.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",102,INCLUDED,ANNOTATION_MATCH,ADN65312.1
+EBNA1,ADN65311.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",102,INCLUDED,ANNOTATION_MATCH,ADN65311.1
+EBNA1,ADN65310.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",102,INCLUDED,ANNOTATION_MATCH,ADN65310.1
+EBNA1,ADN65309.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",102,INCLUDED,ANNOTATION_MATCH,ADN65318.1
+EBNA1,ADN65308.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",102,INCLUDED,ANNOTATION_MATCH,ADN65321.1
+EBNA1,ADN65307.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",101,INCLUDED,ANNOTATION_MATCH,ADN65307.1
+EBNA1,ADN65306.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",101,INCLUDED,ANNOTATION_MATCH,ADN65307.1
+EBNA1,ADN65305.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",102,INCLUDED,ANNOTATION_MATCH,ADN65318.1
+EBNA1,ADN65304.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",102,INCLUDED,ANNOTATION_MATCH,ADN65318.1
+EBNA1,ADN65303.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",102,INCLUDED,ANNOTATION_MATCH,ADN65318.1
+EBNA1,ADN65302.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",102,INCLUDED,ANNOTATION_MATCH,ADN65318.1
+EBNA1,ADN65301.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",102,INCLUDED,ANNOTATION_MATCH,ADN65301.1
+EBNA1,ADN65300.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",102,INCLUDED,ANNOTATION_MATCH,ADN65301.1
+EBNA1,ADN65299.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",101,INCLUDED,ANNOTATION_MATCH,ADN65299.1
+EBNA1,ADN65298.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",102,INCLUDED,ANNOTATION_MATCH,ADN65301.1
+EBNA1,ADN65297.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",102,INCLUDED,ANNOTATION_MATCH,ADN65301.1
+EBNA1,ADN65296.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",101,INCLUDED,ANNOTATION_MATCH,ADN65299.1
+EBNA1,ADN65295.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",101,REVIEW_NONSTANDARD,NONSTANDARD_RESIDUES,
+EBNA1,ADN65294.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",101,INCLUDED,ANNOTATION_MATCH,ADN65294.1
+EBNA1,ADN65293.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",101,INCLUDED,ANNOTATION_MATCH,ADN65293.1
+EBNA1,ADN65292.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",101,INCLUDED,ANNOTATION_MATCH,ADN65293.1
+EBNA1,ADN65291.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",102,INCLUDED,ANNOTATION_MATCH,ADN65291.1
+EBNA1,ADN65290.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",102,INCLUDED,ANNOTATION_MATCH,ADN65321.1
+EBNA1,ADN65289.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",101,INCLUDED,ANNOTATION_MATCH,ADN65293.1
+EBNA1,ADN65288.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",102,INCLUDED,ANNOTATION_MATCH,ADN65321.1
+EBNA1,ADN65287.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",101,INCLUDED,ANNOTATION_MATCH,ADN65287.1
+EBNA1,ADN65286.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",100,INCLUDED,ANNOTATION_MATCH,ADN65286.1
+EBNA1,ADN65285.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",101,INCLUDED,ANNOTATION_MATCH,ADN65287.1
+EBNA1,ADN65284.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",102,INCLUDED,ANNOTATION_MATCH,ADN65313.1
+EBNA1,ADN65283.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",93,INCLUDED,ANNOTATION_MATCH,ADN65283.1
+EBNA1,ADN65282.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",101,INCLUDED,ANNOTATION_MATCH,ADN65287.1
+EBNA1,ADN65281.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",102,INCLUDED,ANNOTATION_MATCH,ADN65318.1
+EBNA1,ADN65280.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",102,INCLUDED,ANNOTATION_MATCH,ADN65318.1
+EBNA1,ADN65279.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",102,INCLUDED,ANNOTATION_MATCH,ADN65321.1
+EBNA1,ADN65278.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",102,INCLUDED,ANNOTATION_MATCH,ADN65318.1
+EBNA1,ADN65277.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",102,INCLUDED,ANNOTATION_MATCH,ADN65321.1
+EBNA1,ADN65276.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",102,REVIEW_NONSTANDARD,NONSTANDARD_RESIDUES,
+EBNA1,ADN65275.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",102,INCLUDED,ANNOTATION_MATCH,ADN65321.1
+EBNA1,ADN65274.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",100,INCLUDED,ANNOTATION_MATCH,ADN65274.1
+EBNA1,ADN65273.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",102,INCLUDED,ANNOTATION_MATCH,ADN65321.1
+EBNA1,ADN65272.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",101,INCLUDED,ANNOTATION_MATCH,ADN65293.1
+EBNA1,ADN65271.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",102,INCLUDED,ANNOTATION_MATCH,ADN65321.1
+EBNA1,ADN65270.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",102,INCLUDED,ANNOTATION_MATCH,ADN65321.1
+EBNA1,ADN65269.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",100,INCLUDED,ANNOTATION_MATCH,ADN65326.1
+EBNA1,ADN65268.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",102,INCLUDED,ANNOTATION_MATCH,ADN65318.1
+EBNA1,ADN65267.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",102,INCLUDED,ANNOTATION_MATCH,ADN65318.1
+EBNA1,ADN65266.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",102,INCLUDED,ANNOTATION_MATCH,ADN65266.1
+EBNA1,ADN65265.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",101,INCLUDED,ANNOTATION_MATCH,ADN65307.1
+EBNA1,ADN65264.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",102,INCLUDED,ANNOTATION_MATCH,ADN65318.1
+EBNA1,ADN65263.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",102,INCLUDED,ANNOTATION_MATCH,ADN65318.1
+EBNA1,ADN65262.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",102,INCLUDED,ANNOTATION_MATCH,ADN65318.1
+EBNA1,ADN65261.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",102,INCLUDED,ANNOTATION_MATCH,ADN65321.1
+EBNA1,ADN65260.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",102,INCLUDED,ANNOTATION_MATCH,ADN65321.1
+EBNA1,ADN65259.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",102,REVIEW_NONSTANDARD,NONSTANDARD_RESIDUES,
+EBNA1,ADN65258.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",102,INCLUDED,ANNOTATION_MATCH,ADN65301.1
+EBNA1,ADN65257.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",102,INCLUDED,ANNOTATION_MATCH,ADN65301.1
+EBNA1,ADN65256.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",102,INCLUDED,ANNOTATION_MATCH,ADN65301.1
+EBNA1,ADN65255.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",102,INCLUDED,ANNOTATION_MATCH,ADN65301.1
+EBNA1,ADN65254.1,"EBNA-1 protein, partial [human gammaherpesvirus 4]",102,INCLUDED,ANNOTATION_MATCH,ADN65301.1
+EBNA1,ALV83247.1,EBNA1 [human gammaherpesvirus 4],677,INCLUDED,ANNOTATION_MATCH,ALV83247.1
+EBNA1,ALV83177.1,EBNA1 [human gammaherpesvirus 4],663,INCLUDED,ANNOTATION_MATCH,ATO60536.1
+EBNA1,ALV83108.1,EBNA1 [human gammaherpesvirus 4],685,INCLUDED,ANNOTATION_MATCH,ALV83108.1
+EBNA1,ALV83041.1,EBNA1 [human gammaherpesvirus 4],647,INCLUDED,ANNOTATION_MATCH,ALV83041.1
+EBNA1,ALV82972.1,EBNA1 [human gammaherpesvirus 4],614,INCLUDED,ANNOTATION_MATCH,ALV82972.1
+EBNA1,ALV82903.1,EBNA1 [human gammaherpesvirus 4],597,INCLUDED,ANNOTATION_MATCH,ALV82903.1
+EBNA1,ALV82835.1,EBNA1 [human gammaherpesvirus 4],671,INCLUDED,ANNOTATION_MATCH,ALV82835.1
+EBNA1,ALV82767.1,EBNA1 [human gammaherpesvirus 4],629,INCLUDED,ANNOTATION_MATCH,ALV82767.1
+EBNA1,AMM45175.1,"EBV nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AMM45175.1
+EBNA1,AMM45174.1,"EBV nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AMM45174.1
+EBNA1,AMM45173.1,"EBV nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97446.1
+EBNA1,AMM45172.1,"EBV nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97446.1
+EBNA1,AMM45171.1,"EBV nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AMM45171.1
+EBNA1,AMM45170.1,"EBV nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97452.1
+EBNA1,AMM45169.1,"EBV nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AMM45171.1
+EBNA1,AMM45168.1,"EBV nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AMM45171.1
+EBNA1,AMM45167.1,"EBV nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AMM45171.1
+EBNA1,AMM45166.1,"EBV nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97446.1
+EBNA1,AMM45165.1,"EBV nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97446.1
+EBNA1,AMM45164.1,"EBV nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97446.1
+EBNA1,AMM45163.1,"EBV nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AMM45163.1
+EBNA1,AMM45162.1,"EBV nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AMM45171.1
+EBNA1,AMM45161.1,"EBV nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AMM45171.1
+EBNA1,AMM45160.1,"EBV nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AMM45171.1
+EBNA1,AMM45159.1,"EBV nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97416.1
+EBNA1,AMM45158.1,"EBV nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97446.1
+EBNA1,AMM45157.1,"EBV nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97452.1
+EBNA1,AMM45156.1,"EBV nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AMM45156.1
+EBNA1,AMM45155.1,"EBV nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AMM45163.1
+EBNA1,AMM45154.1,"EBV nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97446.1
+EBNA1,AMM45153.1,"EBV nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AMM45171.1
+EBNA1,AMM45152.1,"EBV nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AMM45171.1
+EBNA1,AMM45151.1,"EBV nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97446.1
+EBNA1,AMM45150.1,"EBV nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97446.1
+EBNA1,AMM45149.1,"EBV nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97446.1
+EBNA1,AMM45148.1,"EBV nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97449.1
+EBNA1,AMM45147.1,"EBV nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AMM45147.1
+EBNA1,AMM45146.1,"EBV nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97416.1
+EBNA1,AMM45145.1,"EBV nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97452.1
+EBNA1,AMM45144.1,"EBV nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97452.1
+EBNA1,AMM45143.1,"EBV nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AMM45143.1
+EBNA1,AMM45142.1,"EBV nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97446.1
+EBNA1,AMM45141.1,"EBV nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AMM45171.1
+EBNA1,AMM45140.1,"EBV nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97446.1
+EBNA1,AMM45139.1,"EBV nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97446.1
+EBNA1,AMM45138.1,"EBV nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AXZ97446.1
+EBNA1,AMM45137.1,"EBV nuclear antigen 1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AMM45171.1
+EBNA1,BAU51567.1,EBNA1 protein [human gammaherpesvirus 4],625,INCLUDED,ANNOTATION_MATCH,ATO59898.1
+EBNA1,BAU51483.1,EBNA1 protein [human gammaherpesvirus 4],589,INCLUDED,ANNOTATION_MATCH,BAU51483.1
+EBNA1,ALK04310.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04310.1
+EBNA1,ALK04309.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04309.1
+EBNA1,ALK04308.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04308.1
+EBNA1,ALK04307.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04307.1
+EBNA1,ALK04306.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04306.1
+EBNA1,ALK04305.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04305.1
+EBNA1,ALK04304.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04304.1
+EBNA1,ALK04303.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04309.1
+EBNA1,ALK04302.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04309.1
+EBNA1,ALK04301.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04301.1
+EBNA1,ALK04300.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04301.1
+EBNA1,ALK04299.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04308.1
+EBNA1,ALK04298.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04306.1
+EBNA1,ALK04297.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04306.1
+EBNA1,ALK04296.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04305.1
+EBNA1,ALK04295.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04305.1
+EBNA1,ALK04294.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04305.1
+EBNA1,ALK04293.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04305.1
+EBNA1,ALK04292.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04309.1
+EBNA1,ALK04291.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04291.1
+EBNA1,ALK04290.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04290.1
+EBNA1,ALK04289.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04290.1
+EBNA1,ALK04288.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04301.1
+EBNA1,ALK04287.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04301.1
+EBNA1,ALK04286.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04301.1
+EBNA1,ALK04285.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04285.1
+EBNA1,ALK04284.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04284.1
+EBNA1,ALK04283.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04308.1
+EBNA1,ALK04282.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04306.1
+EBNA1,ALK04281.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04306.1
+EBNA1,ALK04280.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04306.1
+EBNA1,ALK04279.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04306.1
+EBNA1,ALK04278.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04306.1
+EBNA1,ALK04277.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04306.1
+EBNA1,ALK04276.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04306.1
+EBNA1,ALK04275.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04306.1
+EBNA1,ALK04274.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04306.1
+EBNA1,ALK04273.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04306.1
+EBNA1,ALK04272.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04306.1
+EBNA1,ALK04271.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04306.1
+EBNA1,ALK04270.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04306.1
+EBNA1,ALK04269.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04306.1
+EBNA1,ALK04268.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04306.1
+EBNA1,ALK04267.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04305.1
+EBNA1,ALK04266.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04305.1
+EBNA1,ALK04265.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04305.1
+EBNA1,ALK04264.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04305.1
+EBNA1,ALK04263.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04305.1
+EBNA1,ALK04262.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04305.1
+EBNA1,ALK04261.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04305.1
+EBNA1,ALK04260.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04305.1
+EBNA1,ALK04259.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04305.1
+EBNA1,ALK04258.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04305.1
+EBNA1,ALK04257.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04257.1
+EBNA1,ALK04256.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04256.1
+EBNA1,ALK04255.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04256.1
+EBNA1,ALK04254.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04256.1
+EBNA1,ALK04253.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04253.1
+EBNA1,ALK04252.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04309.1
+EBNA1,ALK04251.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04309.1
+EBNA1,ALK04250.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04309.1
+EBNA1,ALK04249.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04309.1
+EBNA1,ALK04248.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04309.1
+EBNA1,ALK04247.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04309.1
+EBNA1,ALK04246.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04309.1
+EBNA1,ALK04245.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04309.1
+EBNA1,ALK04244.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04309.1
+EBNA1,ALK04243.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04290.1
+EBNA1,ALK04242.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04301.1
+EBNA1,ALK04241.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04301.1
+EBNA1,ALK04240.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04301.1
+EBNA1,ALK04239.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04301.1
+EBNA1,ALK04238.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04301.1
+EBNA1,ALK04237.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04301.1
+EBNA1,ALK04236.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04301.1
+EBNA1,ALK04235.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04301.1
+EBNA1,ALK04234.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04234.1
+EBNA1,ALK04233.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04233.1
+EBNA1,ALK04232.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04232.1
+EBNA1,ALK04231.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04231.1
+EBNA1,ALK04230.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04230.1
+EBNA1,ALK04229.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04308.1
+EBNA1,ALK04228.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04228.1
+EBNA1,ALK04227.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04227.1
+EBNA1,ALK04226.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04306.1
+EBNA1,ALK04225.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04306.1
+EBNA1,ALK04224.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04306.1
+EBNA1,ALK04223.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04305.1
+EBNA1,ALK04222.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04305.1
+EBNA1,ALK04221.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04305.1
+EBNA1,ALK04220.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04305.1
+EBNA1,ALK04219.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04305.1
+EBNA1,ALK04218.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04305.1
+EBNA1,ALK04217.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04305.1
+EBNA1,ALK04216.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04305.1
+EBNA1,ALK04215.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04305.1
+EBNA1,ALK04214.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04305.1
+EBNA1,ALK04213.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04305.1
+EBNA1,ALK04212.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04305.1
+EBNA1,ALK04211.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04305.1
+EBNA1,ALK04210.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04305.1
+EBNA1,ALK04209.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04305.1
+EBNA1,ALK04208.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04305.1
+EBNA1,ALK04207.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04305.1
+EBNA1,ALK04206.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04305.1
+EBNA1,ALK04205.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04305.1
+EBNA1,ALK04204.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04305.1
+EBNA1,ALK04203.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04305.1
+EBNA1,ALK04202.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04305.1
+EBNA1,ALK04201.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04305.1
+EBNA1,ALK04200.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04305.1
+EBNA1,ALK04199.1,"EBNA1, partial [human gammaherpesvirus 4]",238,INCLUDED,ANNOTATION_MATCH,ALK04305.1
+EBNA1,AID61768.1,"EBNA1, partial [human gammaherpesvirus 4]",88,INCLUDED,ANNOTATION_MATCH,AID61768.1
+EBNA1,AID61767.1,"EBNA1, partial [human gammaherpesvirus 4]",88,INCLUDED,ANNOTATION_MATCH,AID61767.1
+EBNA1,AID61766.1,"EBNA1, partial [human gammaherpesvirus 4]",88,INCLUDED,ANNOTATION_MATCH,AID61766.1
+EBNA1,AID61765.1,"EBNA1, partial [human gammaherpesvirus 4]",88,INCLUDED,ANNOTATION_MATCH,AID61765.1
+EBNA1,AID61764.1,"EBNA1, partial [human gammaherpesvirus 4]",88,INCLUDED,ANNOTATION_MATCH,AID61768.1
+EBNA1,AID61763.1,"EBNA1, partial [human gammaherpesvirus 4]",88,INCLUDED,ANNOTATION_MATCH,AID61765.1
+EBNA1,AID61762.1,"EBNA1, partial [human gammaherpesvirus 4]",88,INCLUDED,ANNOTATION_MATCH,AID61768.1
+EBNA1,AID61761.1,"EBNA1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AID61761.1
+EBNA1,AID61760.1,"EBNA1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AID61760.1
+EBNA1,AID61759.1,"EBNA1, partial [human gammaherpesvirus 4]",88,INCLUDED,ANNOTATION_MATCH,AID61768.1
+EBNA1,AID61758.1,"EBNA1, partial [human gammaherpesvirus 4]",88,INCLUDED,ANNOTATION_MATCH,AID61766.1
+EBNA1,AID61757.1,"EBNA1, partial [human gammaherpesvirus 4]",88,INCLUDED,ANNOTATION_MATCH,AID61766.1
+EBNA1,AID61756.1,"EBNA1, partial [human gammaherpesvirus 4]",88,INCLUDED,ANNOTATION_MATCH,AID61756.1
+EBNA1,AID61755.1,"EBNA1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AID61755.1
+EBNA1,AID61754.1,"EBNA1, partial [human gammaherpesvirus 4]",87,INCLUDED,ANNOTATION_MATCH,AID61754.1
+EBNA1,AHB33366.1,"Epstein-Barr nuclear antigen 2, partial [human gammaherpesvirus 4]",75,REVIEW_IDENTITY,IDENTITY_UNRESOLVED,
+EBNA1,AHB33365.1,"Epstein-Barr nuclear antigen 2, partial [human gammaherpesvirus 4]",75,REVIEW_IDENTITY,IDENTITY_UNRESOLVED,
+EBNA1,AHB33364.1,"Epstein-Barr nuclear antigen 2, partial [human gammaherpesvirus 4]",75,REVIEW_IDENTITY,IDENTITY_UNRESOLVED,
+EBNA1,AHB33363.1,"Epstein-Barr nuclear antigen 2, partial [human gammaherpesvirus 4]",75,REVIEW_IDENTITY,IDENTITY_UNRESOLVED,
+EBNA1,AHB33362.1,"Epstein-Barr nuclear antigen 2, partial [human gammaherpesvirus 4]",75,REVIEW_IDENTITY,IDENTITY_UNRESOLVED,
+EBNA1,AHB33361.1,"Epstein-Barr nuclear antigen 2, partial [human gammaherpesvirus 4]",75,REVIEW_IDENTITY,IDENTITY_UNRESOLVED,
+EBNA1,AHB33360.1,"Epstein-Barr nuclear antigen 2, partial [human gammaherpesvirus 4]",75,REVIEW_IDENTITY,IDENTITY_UNRESOLVED,
+EBNA1,AHB33359.1,"Epstein-Barr nuclear antigen 2, partial [human gammaherpesvirus 4]",75,REVIEW_IDENTITY,IDENTITY_UNRESOLVED,
+EBNA1,AHB33358.1,"Epstein-Barr nuclear antigen 2, partial [human gammaherpesvirus 4]",67,REVIEW_IDENTITY,IDENTITY_UNRESOLVED,
+EBNA1,AHB33357.1,"Epstein-Barr nuclear antigen 2, partial [human gammaherpesvirus 4]",67,REVIEW_IDENTITY,IDENTITY_UNRESOLVED,
+EBNA1,AHB33356.1,"Epstein-Barr nuclear antigen 2, partial [human gammaherpesvirus 4]",75,REVIEW_IDENTITY,IDENTITY_UNRESOLVED,
+EBNA1,AHB33355.1,"Epstein-Barr nuclear antigen 2, partial [human gammaherpesvirus 4]",75,REVIEW_IDENTITY,IDENTITY_UNRESOLVED,
+EBNA1,AHB33354.1,"Epstein-Barr nuclear antigen 2, partial [human gammaherpesvirus 4]",75,REVIEW_IDENTITY,IDENTITY_UNRESOLVED,
+EBNA1,AHB33353.1,"Epstein-Barr nuclear antigen 2, partial [human gammaherpesvirus 4]",75,REVIEW_IDENTITY,IDENTITY_UNRESOLVED,
+EBNA1,AHB33352.1,"Epstein-Barr nuclear antigen 2, partial [human gammaherpesvirus 4]",75,REVIEW_IDENTITY,IDENTITY_UNRESOLVED,
+EBNA1,AHB33351.1,"Epstein-Barr nuclear antigen 2, partial [human gammaherpesvirus 4]",73,REVIEW_IDENTITY,IDENTITY_UNRESOLVED,
+EBNA1,AHB33350.1,"Epstein-Barr nuclear antigen 2, partial [human gammaherpesvirus 4]",73,REVIEW_IDENTITY,IDENTITY_UNRESOLVED,
+EBNA1,AFC90217.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",104,INCLUDED,ANNOTATION_MATCH,AFC90217.1
+EBNA1,AFC90216.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",104,INCLUDED,ANNOTATION_MATCH,AFC90216.1
+EBNA1,AFC90215.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",104,INCLUDED,ANNOTATION_MATCH,AFC90216.1
+EBNA1,AFC90214.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",104,INCLUDED,ANNOTATION_MATCH,AFC90216.1
+EBNA1,AFC90213.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",104,INCLUDED,ANNOTATION_MATCH,AFC90216.1
+EBNA1,AFC90212.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",104,INCLUDED,ANNOTATION_MATCH,AFC90212.1
+EBNA1,AFC90211.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",104,INCLUDED,ANNOTATION_MATCH,AFC90212.1
+EBNA1,AFC90210.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",104,INCLUDED,ANNOTATION_MATCH,AFC90212.1
+EBNA1,AFC90209.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",104,INCLUDED,ANNOTATION_MATCH,AFC90212.1
+EBNA1,AFC90208.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",104,INCLUDED,ANNOTATION_MATCH,AFC90212.1
+EBNA1,AFC90207.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",104,INCLUDED,ANNOTATION_MATCH,AFC90207.1
+EBNA1,AFC90206.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",104,INCLUDED,ANNOTATION_MATCH,AFC90207.1
+EBNA1,AFC90205.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",104,INCLUDED,ANNOTATION_MATCH,AFC90207.1
+EBNA1,AFC90204.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",104,INCLUDED,ANNOTATION_MATCH,AFC90207.1
+EBNA1,AFC90203.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",104,INCLUDED,ANNOTATION_MATCH,AFC90207.1
+EBNA1,AFC90202.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",104,INCLUDED,ANNOTATION_MATCH,AFC90207.1
+EBNA1,AFC90201.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",104,INCLUDED,ANNOTATION_MATCH,AFC90212.1
+EBNA1,AFC90200.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",104,INCLUDED,ANNOTATION_MATCH,AFC90212.1
+EBNA1,AFC90199.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",104,INCLUDED,ANNOTATION_MATCH,AFC90212.1
+EBNA1,AFC90198.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",104,INCLUDED,ANNOTATION_MATCH,AFC90212.1
+EBNA1,AFC90197.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",104,INCLUDED,ANNOTATION_MATCH,AFC90212.1
+EBNA1,AFC90196.1,"EBNA1 protein, partial [human gammaherpesvirus 4]",104,INCLUDED,ANNOTATION_MATCH,AFC90212.1

@@ -1,0 +1,171 @@
+accession,description,length,reference_coverage_percent,aligned_identity_percent,screening_status
+P13288.2,RecName: Full=Serine/threonine-protein kinase BGLF4,429,2.04,80.0,REVIEW_IDENTITY
+P03191.1,RecName: Full=DNA polymerase processivity factor BMRF1; AltName: Full=Early Antigen Diffused; Short=EA-D; AltName: Full=Polymerase accessory subunit,404,1.63,100.0,REVIEW_IDENTITY
+ASU89835.1,hypothetical protein [human gammaherpesvirus 4],244,99.59,100.0,LIKELY_BZLF1
+ASU89761.1,hypothetical protein [human gammaherpesvirus 4],244,99.59,97.95,LIKELY_BZLF1
+ASU89685.1,hypothetical protein [human gammaherpesvirus 4],244,99.59,99.59,LIKELY_BZLF1
+ASU89611.1,hypothetical protein [human gammaherpesvirus 4],244,99.59,97.95,LIKELY_BZLF1
+ANQ44961.1,hypothetical protein YCCEL1_031 [human gammaherpesvirus 4],244,99.59,100.0,LIKELY_BZLF1
+ANQ44893.1,hypothetical protein SNU-719_031 [human gammaherpesvirus 4],244,99.59,97.95,LIKELY_BZLF1
+ANQ44822.1,hypothetical protein EBVaGC2_030 [human gammaherpesvirus 4],244,99.59,99.59,LIKELY_BZLF1
+ANQ44755.1,hypothetical protein EBVaGC1_028 [human gammaherpesvirus 4],244,99.59,97.95,LIKELY_BZLF1
+AAA66528.1,"BRLF1, partial [human gammaherpesvirus 4]",244,5.31,53.85,REVIEW_IDENTITY
+ANI26362.1,hypothetical protein [human gammaherpesvirus 4],245,100.0,95.51,LIKELY_BZLF1
+BAU51479.1,hypothetical protein [human gammaherpesvirus 4],244,99.59,97.95,LIKELY_BZLF1
+AKA28829.1,hypothetical protein HHV4_BZLF1 [human gammaherpesvirus 4],245,100.0,100.0,LIKELY_BZLF1
+AKA28756.1,hypothetical protein HHV4_BZLF1 [human gammaherpesvirus 4],245,100.0,100.0,LIKELY_BZLF1
+AKA28682.1,hypothetical protein HHV4_BZLF1 [human gammaherpesvirus 4],245,100.0,100.0,LIKELY_BZLF1
+AKA28608.1,hypothetical protein HHV4_BZLF1 [human gammaherpesvirus 4],245,100.0,100.0,LIKELY_BZLF1
+AKA28466.1,hypothetical protein HHV4_BZLF1 [human gammaherpesvirus 4],245,100.0,97.14,LIKELY_BZLF1
+AKA28396.1,hypothetical protein HHV4_BZLF1 [human gammaherpesvirus 4],244,99.59,100.0,LIKELY_BZLF1
+AKA28326.1,hypothetical protein [human gammaherpesvirus 4],244,99.59,100.0,LIKELY_BZLF1
+AKE13281.1,hypothetical protein HHV4_BZLF1 [human gammaherpesvirus 4],245,100.0,97.96,LIKELY_BZLF1
+ALQ28524.1,transcription activator [human gammaherpesvirus 4],245,100.0,100.0,LIKELY_BZLF1
+ALQ28447.1,transcription activator [human gammaherpesvirus 4],245,100.0,96.73,LIKELY_BZLF1
+ALQ28371.1,transcription activator [human gammaherpesvirus 4],244,99.59,100.0,LIKELY_BZLF1
+ALQ28297.1,transcription activator [human gammaherpesvirus 4],245,100.0,100.0,LIKELY_BZLF1
+AIM62252.1,transmembrane protein [human gammaherpesvirus 4],386,1.63,100.0,REVIEW_IDENTITY
+AIM62250.1,BNLF2a [human gammaherpesvirus 4],60,2.04,100.0,REVIEW_IDENTITY
+AIM62249.1,BNLF2b [human gammaherpesvirus 4],98,3.27,62.5,REVIEW_IDENTITY
+AIM62248.1,subunit of terminase [human gammaherpesvirus 4],685,2.45,83.33,REVIEW_IDENTITY
+AIM62247.1,glycoprotein [human gammaherpesvirus 4],857,2.45,83.33,REVIEW_IDENTITY
+AIM62246.1,DNA polymerase catalytic subunit [human gammaherpesvirus 4],1015,1.63,100.0,REVIEW_IDENTITY
+AIM62245.1,G protein-coupled receptor [human gammaherpesvirus 4],312,2.04,80.0,REVIEW_IDENTITY
+AIM62244.1,LF1 [human gammaherpesvirus 4],469,2.86,71.43,REVIEW_IDENTITY
+AIM62243.1,hypothetical protein [human gammaherpesvirus 4],429,2.04,80.0,REVIEW_IDENTITY
+AIM62242.1,LF3 [human gammaherpesvirus 4],924,2.86,71.43,REVIEW_IDENTITY
+AIM62241.1,membrane glycoprotein [human gammaherpesvirus 4],248,2.04,80.0,REVIEW_IDENTITY
+AIM62240.1,capsid maturational protease [human gammaherpesvirus 4],605,6.12,53.33,REVIEW_IDENTITY
+AIM62239.1,BVLF1 [human gammaherpesvirus 4],272,2.86,71.43,REVIEW_IDENTITY
+AIM62238.1,putative portal-capping protein [human gammaherpesvirus 4],570,2.04,100.0,REVIEW_IDENTITY
+AIM62237.1,nuclear protein [human gammaherpesvirus 4],248,3.67,66.67,REVIEW_IDENTITY
+AIM62236.1,thymidine kinase [human gammaherpesvirus 4],607,1.63,100.0,REVIEW_IDENTITY
+AIM62235.1,envelope glycoprotein gH [human gammaherpesvirus 4],706,3.67,66.67,REVIEW_IDENTITY
+AIM62234.1,tegument protein [human gammaherpesvirus 4],404,1.63,100.0,REVIEW_IDENTITY
+AIM62233.1,major capsid protein [human gammaherpesvirus 4],1381,3.27,75.0,REVIEW_IDENTITY
+AIM62232.1,capsid triplex subunit 2 [human gammaherpesvirus 4],301,2.45,83.33,REVIEW_IDENTITY
+AIM62231.1,BDLF2 [human gammaherpesvirus 4],420,3.27,75.0,REVIEW_IDENTITY
+AIM62230.1,BDLF3 [human gammaherpesvirus 4],77,3.27,62.5,REVIEW_IDENTITY
+AIM62229.1,BDLF4 [human gammaherpesvirus 4],225,3.27,75.0,REVIEW_IDENTITY
+AIM62228.1,tegument protein [human gammaherpesvirus 4],336,3.27,62.5,REVIEW_IDENTITY
+AIM62227.1,putative ATPase subunit of terminase [human gammaherpesvirus 4],325,1.22,100.0,REVIEW_IDENTITY
+AIM62226.1,BGLF3 [human gammaherpesvirus 4],332,2.86,71.43,REVIEW_IDENTITY
+AIM62225.1,tegument protein [human gammaherpesvirus 4],153,1.63,100.0,REVIEW_IDENTITY
+AIM62224.1,serine-threonine protein kinase [human gammaherpesvirus 4],429,2.04,80.0,REVIEW_IDENTITY
+AIM62223.1,deoxyribonuclease [human gammaherpesvirus 4],470,2.04,80.0,REVIEW_IDENTITY
+AIM62222.1,alkaline exonuclease [human gammaherpesvirus 4],75,2.45,83.33,REVIEW_IDENTITY
+AIM62221.1,envelope glycoprotein gM [human gammaherpesvirus 4],405,2.45,83.33,REVIEW_IDENTITY
+AIM62220.1,tegument protein [human gammaherpesvirus 4],278,2.04,80.0,REVIEW_IDENTITY
+AIM62219.1,portal protein [human gammaherpesvirus 4],613,3.27,75.0,REVIEW_IDENTITY
+AIM62218.1,helicase-primase subunit [human gammaherpesvirus 4],809,1.63,100.0,REVIEW_IDENTITY
+AIM62217.1,BKRF4 [human gammaherpesvirus 4],217,2.45,83.33,REVIEW_IDENTITY
+AIM62216.1,uracil DNA glycosylase [human gammaherpesvirus 4],255,1.63,100.0,REVIEW_IDENTITY
+AIM62215.1,virion glycoprotein gL [human gammaherpesvirus 4],137,2.04,80.0,REVIEW_IDENTITY
+AIM62214.1,BRRF2 [human gammaherpesvirus 4],537,3.27,75.0,REVIEW_IDENTITY
+AIM62213.1,BRRF1 [human gammaherpesvirus 4],310,1.63,100.0,REVIEW_IDENTITY
+AIM62212.1,transactivator [human gammaherpesvirus 4],605,5.31,53.85,REVIEW_IDENTITY
+AIM62211.1,EBNA-3b [human gammaherpesvirus 4],938,3.67,66.67,REVIEW_IDENTITY
+AIM62210.1,EBNA-3a [human gammaherpesvirus 4],944,2.86,85.71,REVIEW_IDENTITY
+AIM62209.1,BLLF2 [human gammaherpesvirus 4],148,6.53,56.25,REVIEW_IDENTITY
+AIM62208.1,envelope glycoprotein gp350 [human gammaherpesvirus 4],907,1.63,100.0,REVIEW_IDENTITY
+AIM62207.1,BLRF2 [human gammaherpesvirus 4],162,3.27,75.0,REVIEW_IDENTITY
+AIM62206.1,envelope glycoprotein gN [human gammaherpesvirus 4],102,3.27,62.5,REVIEW_IDENTITY
+AIM62205.1,dUTPase [human gammaherpesvirus 4],278,2.04,80.0,REVIEW_IDENTITY
+AIM62204.1,tegument protein [human gammaherpesvirus 4],218,2.86,71.43,REVIEW_IDENTITY
+AIM62203.1,helicase-primase subunit [human gammaherpesvirus 4],874,2.45,83.33,REVIEW_IDENTITY
+AIM62202.1,multiple transmembrane protein [human gammaherpesvirus 4],357,3.27,62.5,REVIEW_IDENTITY
+AIM62201.1,DNA polymerase processivity subunit [human gammaherpesvirus 4],404,1.63,100.0,REVIEW_IDENTITY
+AIM62200.1,ribonucleotide reductase small subunit [human gammaherpesvirus 4],302,3.67,66.67,REVIEW_IDENTITY
+AIM62199.1,ribonucleotide reductase large subunit [human gammaherpesvirus 4],826,2.86,71.43,REVIEW_IDENTITY
+AIM62198.1,capsid triplex subunit 1 [human gammaherpesvirus 4],364,1.63,100.0,REVIEW_IDENTITY
+AIM62197.1,large tegument protein [human gammaherpesvirus 4],3149,2.86,85.71,REVIEW_IDENTITY
+AIM62196.1,BFRF3 [human gammaherpesvirus 4],176,4.9,58.33,REVIEW_IDENTITY
+AIM62195.1,BFRF2 [human gammaherpesvirus 4],591,2.04,80.0,REVIEW_IDENTITY
+AIM62194.1,BFRF1 [human gammaherpesvirus 4],336,2.04,80.0,REVIEW_IDENTITY
+AIM62193.1,BFRF1a [human gammaherpesvirus 4],135,3.27,75.0,REVIEW_IDENTITY
+AIM62192.1,BFLF1 [human gammaherpesvirus 4],525,1.63,100.0,REVIEW_IDENTITY
+AIM62191.1,vbcl-2a [human gammaherpesvirus 4],191,2.04,80.0,REVIEW_IDENTITY
+AIM62190.1,BHLF1 [human gammaherpesvirus 4],660,2.86,71.43,REVIEW_IDENTITY
+AIM62189.1,latency protein [human gammaherpesvirus 4],487,3.27,75.0,REVIEW_IDENTITY
+AIM62188.1,latency protein [human gammaherpesvirus 4],495,6.12,53.33,REVIEW_IDENTITY
+AIM62187.1,vIL-10 [human gammaherpesvirus 4],170,1.63,100.0,REVIEW_IDENTITY
+AIM62186.1,FGAM-synthase [human gammaherpesvirus 4],1318,3.27,75.0,REVIEW_IDENTITY
+AIM62185.1,LMP-2 [human gammaherpesvirus 4],378,2.04,80.0,REVIEW_IDENTITY
+AIA57660.1,viral immediatly early antigen [human gammaherpesvirus 4],245,100.0,96.33,LIKELY_BZLF1
+AIA57659.1,viral immediatly early antigen [human gammaherpesvirus 4],245,100.0,98.37,LIKELY_BZLF1
+AIA57658.1,viral immediatly early antigen [human gammaherpesvirus 4],245,100.0,97.96,LIKELY_BZLF1
+AIA57657.1,viral immediatly early antigen [human gammaherpesvirus 4],244,99.59,100.0,LIKELY_BZLF1
+AIA57656.1,viral immediatly early antigen [human gammaherpesvirus 4],244,99.59,100.0,LIKELY_BZLF1
+AIA57655.1,viral immediatly early antigen [human gammaherpesvirus 4],244,99.59,100.0,LIKELY_BZLF1
+AIA57654.1,viral immediatly early antigen [human gammaherpesvirus 4],245,100.0,99.59,LIKELY_BZLF1
+AIA57653.1,viral immediatly early antigen [human gammaherpesvirus 4],245,100.0,95.92,LIKELY_BZLF1
+AIA57652.1,viral immediatly early antigen [human gammaherpesvirus 4],245,100.0,100.0,LIKELY_BZLF1
+AIA57651.1,viral immediatly early antigen [human gammaherpesvirus 4],245,100.0,95.92,LIKELY_BZLF1
+AIA57650.1,viral immediatly early antigen [human gammaherpesvirus 4],245,100.0,100.0,LIKELY_BZLF1
+AIA57649.1,viral immediatly early antigen [human gammaherpesvirus 4],245,100.0,96.33,LIKELY_BZLF1
+AIA57648.1,viral immediatly early antigen [human gammaherpesvirus 4],245,100.0,96.33,LIKELY_BZLF1
+AIA57647.1,viral immediatly early antigen [human gammaherpesvirus 4],245,100.0,98.37,LIKELY_BZLF1
+AIA57646.1,viral immediatly early antigen [human gammaherpesvirus 4],244,99.59,100.0,LIKELY_BZLF1
+AIA57645.1,viral immediatly early antigen [human gammaherpesvirus 4],244,99.59,100.0,LIKELY_BZLF1
+AIA57644.1,viral immediatly early antigen [human gammaherpesvirus 4],244,99.59,100.0,LIKELY_BZLF1
+AIA57643.1,viral immediatly early antigen [human gammaherpesvirus 4],245,100.0,100.0,LIKELY_BZLF1
+AIA57642.1,viral immediatly early antigen [human gammaherpesvirus 4],244,99.59,100.0,LIKELY_BZLF1
+AIA57641.1,viral immediatly early antigen [human gammaherpesvirus 4],245,100.0,95.92,LIKELY_BZLF1
+AIA57640.1,viral immediatly early antigen [human gammaherpesvirus 4],245,100.0,97.14,LIKELY_BZLF1
+AIA57639.1,viral immediatly early antigen [human gammaherpesvirus 4],245,100.0,100.0,LIKELY_BZLF1
+AIA57638.1,viral immediatly early antigen [human gammaherpesvirus 4],244,99.59,95.9,LIKELY_BZLF1
+AIA57637.1,viral immediatly early antigen [human gammaherpesvirus 4],245,100.0,95.51,LIKELY_BZLF1
+AIA57636.1,viral immediatly early antigen [human gammaherpesvirus 4],245,100.0,97.14,LIKELY_BZLF1
+AIA57635.1,viral immediatly early antigen [human gammaherpesvirus 4],245,100.0,98.37,LIKELY_BZLF1
+AIA57634.1,viral immediatly early antigen [human gammaherpesvirus 4],245,100.0,96.33,LIKELY_BZLF1
+AIA57633.1,viral immediatly early antigen [human gammaherpesvirus 4],245,100.0,96.33,LIKELY_BZLF1
+AIA57632.1,viral immediatly early antigen [human gammaherpesvirus 4],245,100.0,97.96,LIKELY_BZLF1
+AIA57631.1,viral immediatly early antigen [human gammaherpesvirus 4],245,100.0,97.96,LIKELY_BZLF1
+AIA57630.1,viral immediatly early antigen [human gammaherpesvirus 4],245,100.0,100.0,LIKELY_BZLF1
+AIA57629.1,viral immediatly early antigen [human gammaherpesvirus 4],245,100.0,100.0,LIKELY_BZLF1
+AIA57628.1,viral immediatly early antigen [human gammaherpesvirus 4],245,100.0,100.0,LIKELY_BZLF1
+AIA57627.1,viral immediatly early antigen [human gammaherpesvirus 4],245,100.0,100.0,LIKELY_BZLF1
+AIA57626.1,viral immediatly early antigen [human gammaherpesvirus 4],245,100.0,99.59,LIKELY_BZLF1
+AIA57625.1,viral immediatly early antigen [human gammaherpesvirus 4],245,100.0,99.59,LIKELY_BZLF1
+AIA57624.1,viral immediatly early antigen [human gammaherpesvirus 4],245,100.0,100.0,LIKELY_BZLF1
+AIA57623.1,viral immediatly early antigen [human gammaherpesvirus 4],245,100.0,100.0,LIKELY_BZLF1
+AIA57622.1,viral immediatly early antigen [human gammaherpesvirus 4],245,100.0,100.0,LIKELY_BZLF1
+AIA57621.1,viral immediatly early antigen [human gammaherpesvirus 4],245,100.0,100.0,LIKELY_BZLF1
+AIA57620.1,viral immediatly early antigen [human gammaherpesvirus 4],245,100.0,100.0,LIKELY_BZLF1
+AIA57619.1,viral immediatly early antigen [human gammaherpesvirus 4],245,100.0,100.0,LIKELY_BZLF1
+AIA57618.1,viral immediatly early antigen [human gammaherpesvirus 4],244,99.59,100.0,LIKELY_BZLF1
+AIA57617.1,viral immediatly early antigen [human gammaherpesvirus 4],244,99.59,100.0,LIKELY_BZLF1
+AIA57616.1,viral immediatly early antigen [human gammaherpesvirus 4],245,100.0,97.14,LIKELY_BZLF1
+AIA57615.1,viral immediatly early antigen [human gammaherpesvirus 4],245,100.0,97.14,LIKELY_BZLF1
+AIA57614.1,viral immediatly early antigen [human gammaherpesvirus 4],245,100.0,100.0,LIKELY_BZLF1
+AIA57613.1,viral immediatly early antigen [human gammaherpesvirus 4],245,100.0,100.0,LIKELY_BZLF1
+AIA57612.1,viral immediatly early antigen [human gammaherpesvirus 4],245,100.0,100.0,LIKELY_BZLF1
+AIA57611.1,viral immediatly early antigen [human gammaherpesvirus 4],245,100.0,100.0,LIKELY_BZLF1
+AIA57610.1,viral immediatly early antigen [human gammaherpesvirus 4],245,100.0,100.0,LIKELY_BZLF1
+AIA57609.1,viral immediatly early antigen [human gammaherpesvirus 4],245,100.0,100.0,LIKELY_BZLF1
+AIA57608.1,viral immediatly early antigen [human gammaherpesvirus 4],245,100.0,99.59,LIKELY_BZLF1
+AIA57607.1,viral immediatly early antigen [human gammaherpesvirus 4],245,100.0,99.59,LIKELY_BZLF1
+AIA57606.1,viral immediatly early antigen [human gammaherpesvirus 4],245,100.0,100.0,LIKELY_BZLF1
+AIA57605.1,viral immediatly early antigen [human gammaherpesvirus 4],245,100.0,100.0,LIKELY_BZLF1
+AIA57604.1,viral immediatly early antigen [human gammaherpesvirus 4],245,100.0,96.33,LIKELY_BZLF1
+AIA57603.1,viral immediatly early antigen [human gammaherpesvirus 4],245,100.0,96.33,LIKELY_BZLF1
+AIA57602.1,viral immediatly early antigen [human gammaherpesvirus 4],244,99.59,100.0,LIKELY_BZLF1
+AIA57601.1,viral immediatly early antigen [human gammaherpesvirus 4],244,99.59,100.0,LIKELY_BZLF1
+AIA57600.1,viral immediatly early antigen [human gammaherpesvirus 4],244,99.59,95.9,LIKELY_BZLF1
+AIA57599.1,viral immediatly early antigen [human gammaherpesvirus 4],244,99.59,95.9,LIKELY_BZLF1
+AIA57598.1,viral immediatly early antigen [human gammaherpesvirus 4],245,100.0,100.0,LIKELY_BZLF1
+AIA57597.1,viral immediatly early antigen [human gammaherpesvirus 4],245,100.0,100.0,LIKELY_BZLF1
+AIA57596.1,viral immediatly early antigen [human gammaherpesvirus 4],244,99.59,100.0,LIKELY_BZLF1
+AIA57595.1,viral immediatly early antigen [human gammaherpesvirus 4],244,99.59,100.0,LIKELY_BZLF1
+AIA57594.1,viral immediatly early antigen [human gammaherpesvirus 4],245,100.0,100.0,LIKELY_BZLF1
+AIA57593.1,viral immediatly early antigen [human gammaherpesvirus 4],245,100.0,100.0,LIKELY_BZLF1
+AIA57592.1,viral immediatly early antigen [human gammaherpesvirus 4],245,100.0,100.0,LIKELY_BZLF1
+AIA57591.1,viral immediatly early antigen [human gammaherpesvirus 4],245,100.0,100.0,LIKELY_BZLF1
+AIA57590.1,viral immediatly early antigen [human gammaherpesvirus 4],244,99.59,100.0,LIKELY_BZLF1
+AIA57589.1,viral immediatly early antigen [human gammaherpesvirus 4],244,99.59,100.0,LIKELY_BZLF1
+AIA57588.1,viral immediatly early antigen [human gammaherpesvirus 4],245,100.0,100.0,LIKELY_BZLF1
+AIA57587.1,viral immediatly early antigen [human gammaherpesvirus 4],245,100.0,100.0,LIKELY_BZLF1
+AFJ06861.1,BRLF1 [human gammaherpesvirus 4],605,5.31,53.85,REVIEW_IDENTITY
+AHA36444.1,bZIP transcription factor [human gammaherpesvirus 4],245,100.0,99.18,LIKELY_BZLF1
+ABA06392.1,Z protein [human gammaherpesvirus 4],245,100.0,95.51,LIKELY_BZLF1
+CAA24861.1,unnamed protein product [human gammaherpesvirus 4],245,100.0,100.0,LIKELY_BZLF1

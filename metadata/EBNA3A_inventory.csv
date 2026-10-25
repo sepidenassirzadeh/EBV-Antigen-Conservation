@@ -1,0 +1,149 @@
+target_protein,accession,description,length,partial_label,retrieval_date
+EBNA3A,P12977.2,RecName: Full=Epstein-Barr nuclear antigen 3; Short=EBNA-3; Short=EBV nuclear antigen 3; AltName: Full=Epstein-Barr nuclear antigen 3A; Short=EBNA-3A; Short=EBV nuclear antigen 3A,944,False,2026-10-18
+EBNA3A,QNL15170.1,"Epstein-Barr nuclear antigen 3A, partial [human gammaherpesvirus 4]",619,True,2026-10-18
+EBNA3A,QNL15169.1,"Epstein-Barr nuclear antigen 3A, partial [human gammaherpesvirus 4]",619,True,2026-10-18
+EBNA3A,QNL15168.1,"Epstein-Barr nuclear antigen 3A, partial [human gammaherpesvirus 4]",619,True,2026-10-18
+EBNA3A,QNL15167.1,"Epstein-Barr nuclear antigen 3A, partial [human gammaherpesvirus 4]",601,True,2026-10-18
+EBNA3A,QNL15166.1,"Epstein-Barr nuclear antigen 3A, partial [human gammaherpesvirus 4]",619,True,2026-10-18
+EBNA3A,QNL15165.1,"Epstein-Barr nuclear antigen 3A, partial [human gammaherpesvirus 4]",619,True,2026-10-18
+EBNA3A,QNL15164.1,"Epstein-Barr nuclear antigen 3A, partial [human gammaherpesvirus 4]",618,True,2026-10-18
+EBNA3A,QNL15163.1,"Epstein-Barr nuclear antigen 3A, partial [human gammaherpesvirus 4]",601,True,2026-10-18
+EBNA3A,QNL15162.1,"Epstein-Barr nuclear antigen 3A, partial [human gammaherpesvirus 4]",617,True,2026-10-18
+EBNA3A,QNL15161.1,"Epstein-Barr nuclear antigen 3A, partial [human gammaherpesvirus 4]",619,True,2026-10-18
+EBNA3A,QNL15160.1,"Epstein-Barr nuclear antigen 3A, partial [human gammaherpesvirus 4]",601,True,2026-10-18
+EBNA3A,QNL15159.1,"Epstein-Barr nuclear antigen 3A, partial [human gammaherpesvirus 4]",615,True,2026-10-18
+EBNA3A,ATO60136.1,EBNA3A nuclear protein [human gammaherpesvirus 4],944,False,2026-10-18
+EBNA3A,ATO59807.1,EBNA3A nuclear protein [human gammaherpesvirus 4],935,False,2026-10-18
+EBNA3A,QHE24173.1,EBNA3A nuclear protein [human gammaherpesvirus 4],944,False,2026-10-18
+EBNA3A,QHE24088.1,EBNA3A nuclear protein [human gammaherpesvirus 4],944,False,2026-10-18
+EBNA3A,AWG94345.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG94273.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG94135.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG94063.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG93926.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG93857.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG93792.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG93725.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG93580.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG93330.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG93271.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG93148.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG93088.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG93029.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG92969.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG92906.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG92835.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG92769.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG92699.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG92627.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG92556.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG92418.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG92227.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG92166.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG92107.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG91922.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG91860.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG91798.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG91685.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG91625.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG91566.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG91507.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG91393.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG91325.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG91263.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG91197.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG91018.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG90959.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG90902.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG90843.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG90776.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG90707.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG90642.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG90579.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG90508.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG90438.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG90369.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG90245.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG90180.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG90115.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG90050.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG89979.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG89913.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG89786.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG89718.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG89651.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG89588.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG89526.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG89462.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG89333.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG89267.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG89200.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG89130.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG88930.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG88740.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG88603.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG88532.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG88463.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG88392.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG88322.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG88250.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG88178.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG88113.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG87973.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG87900.1,"EBNA3A, partial [human gammaherpesvirus 4]",831,True,2026-10-18
+EBNA3A,AWG87899.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,AWG87827.1,"EBNA3A nuclear protein, partial [human gammaherpesvirus 4]",113,True,2026-10-18
+EBNA3A,ATO60671.1,EBNA3A nuclear protein [human gammaherpesvirus 4],944,False,2026-10-18
+EBNA3A,ATO60382.1,EBNA3A nuclear protein [human gammaherpesvirus 4],925,False,2026-10-18
+EBNA3A,ATO60300.1,EBNA3A nuclear protein [human gammaherpesvirus 4],944,False,2026-10-18
+EBNA3A,ATO60218.1,EBNA3A nuclear protein [human gammaherpesvirus 4],944,False,2026-10-18
+EBNA3A,ATO60054.1,EBNA3A nuclear protein [human gammaherpesvirus 4],944,False,2026-10-18
+EBNA3A,ATO59971.1,EBNA3A nuclear protein [human gammaherpesvirus 4],944,False,2026-10-18
+EBNA3A,ATO59890.1,EBNA3A nuclear protein [human gammaherpesvirus 4],935,False,2026-10-18
+EBNA3A,ASU89759.1,EBNA3A nuclear protein [human gammaherpesvirus 4],944,False,2026-10-18
+EBNA3A,ASU89682.1,EBNA3A nuclear protein [human gammaherpesvirus 4],944,False,2026-10-18
+EBNA3A,ASU89609.1,EBNA3A nuclear protein [human gammaherpesvirus 4],944,False,2026-10-18
+EBNA3A,ANQ44957.1,EBNA3A nuclear protein [human gammaherpesvirus 4],935,False,2026-10-18
+EBNA3A,ANQ44889.1,EBNA3A nuclear protein [human gammaherpesvirus 4],944,False,2026-10-18
+EBNA3A,ANQ44818.1,EBNA3A nuclear protein [human gammaherpesvirus 4],944,False,2026-10-18
+EBNA3A,ANQ44751.1,EBNA3A nuclear protein [human gammaherpesvirus 4],944,False,2026-10-18
+EBNA3A,ANI26358.1,EBNA3A nuclear protein [human gammaherpesvirus 4],944,False,2026-10-18
+EBNA3A,ANI26282.1,EBNA3A nuclear protein [human gammaherpesvirus 4],944,False,2026-10-18
+EBNA3A,ANI26201.1,EBNA3A nuclear protein [human gammaherpesvirus 4],944,False,2026-10-18
+EBNA3A,ANI26120.1,EBNA3A nuclear protein [human gammaherpesvirus 4],944,False,2026-10-18
+EBNA3A,BAU51559.1,EBNA3A nuclear protein [human gammaherpesvirus 4],935,False,2026-10-18
+EBNA3A,BAU51475.1,EBNA3A nuclear protein [human gammaherpesvirus 4],944,False,2026-10-18
+EBNA3A,BAP94411.1,Epstein-Barr nuclear antigen 3 [human gammaherpesvirus 4],944,False,2026-10-18
+EBNA3A,AKE13277.1,EBNA3A nuclear protein [human gammaherpesvirus 4],944,False,2026-10-18
+EBNA3A,BAQ20309.1,Epstein-Barr nuclear antigen 3 [human gammaherpesvirus 4],944,False,2026-10-18
+EBNA3A,AFX84657.1,"nuclear antigen 3A, partial [human gammaherpesvirus 4]",294,True,2026-10-18
+EBNA3A,AFX84656.1,"nuclear antigen 3A, partial [human gammaherpesvirus 4]",294,True,2026-10-18
+EBNA3A,AFX84655.1,"nuclear antigen 3A, partial [human gammaherpesvirus 4]",294,True,2026-10-18
+EBNA3A,AFX84654.1,"nuclear antigen 3A, partial [human gammaherpesvirus 4]",294,True,2026-10-18
+EBNA3A,AFX84653.1,"nuclear antigen 3A, partial [human gammaherpesvirus 4]",294,True,2026-10-18
+EBNA3A,AFX84652.1,"nuclear antigen 3A, partial [human gammaherpesvirus 4]",294,True,2026-10-18
+EBNA3A,AFX84651.1,"nuclear antigen 3A, partial [human gammaherpesvirus 4]",294,True,2026-10-18
+EBNA3A,AFX84650.1,"nuclear antigen 3A, partial [human gammaherpesvirus 4]",294,True,2026-10-18
+EBNA3A,AFX84649.1,"nuclear antigen 3A, partial [human gammaherpesvirus 4]",294,True,2026-10-18
+EBNA3A,AFX84648.1,"nuclear antigen 3A, partial [human gammaherpesvirus 4]",294,True,2026-10-18
+EBNA3A,AFX84647.1,"nuclear antigen 3A, partial [human gammaherpesvirus 4]",294,True,2026-10-18
+EBNA3A,AFX84646.1,"nuclear antigen 3A, partial [human gammaherpesvirus 4]",294,True,2026-10-18
+EBNA3A,AFX84645.1,"nuclear antigen 3A, partial [human gammaherpesvirus 4]",294,True,2026-10-18
+EBNA3A,AFX84644.1,"nuclear antigen 3A, partial [human gammaherpesvirus 4]",294,True,2026-10-18
+EBNA3A,AFX84643.1,"nuclear antigen 3A, partial [human gammaherpesvirus 4]",294,True,2026-10-18
+EBNA3A,AFX84642.1,"nuclear antigen 3A, partial [human gammaherpesvirus 4]",294,True,2026-10-18
+EBNA3A,AFX84641.1,"nuclear antigen 3A, partial [human gammaherpesvirus 4]",294,True,2026-10-18
+EBNA3A,AFX84640.1,"nuclear antigen 3A, partial [human gammaherpesvirus 4]",294,True,2026-10-18
+EBNA3A,AFX84639.1,"nuclear antigen 3A, partial [human gammaherpesvirus 4]",294,True,2026-10-18
+EBNA3A,AFX84638.1,"nuclear antigen 3A, partial [human gammaherpesvirus 4]",294,True,2026-10-18
+EBNA3A,AFX84637.1,"nuclear antigen 3A, partial [human gammaherpesvirus 4]",294,True,2026-10-18
+EBNA3A,AFX84636.1,"nuclear antigen 3A, partial [human gammaherpesvirus 4]",294,True,2026-10-18
+EBNA3A,AFX84635.1,"nuclear antigen 3A, partial [human gammaherpesvirus 4]",294,True,2026-10-18
+EBNA3A,AFX84634.1,"nuclear antigen 3A, partial [human gammaherpesvirus 4]",294,True,2026-10-18
+EBNA3A,AFX84633.1,"nuclear antigen 3A, partial [human gammaherpesvirus 4]",294,True,2026-10-18
+EBNA3A,AFX84632.1,"nuclear antigen 3A, partial [human gammaherpesvirus 4]",294,True,2026-10-18
+EBNA3A,AFX84631.1,"nuclear antigen 3A, partial [human gammaherpesvirus 4]",294,True,2026-10-18
+EBNA3A,AFX84630.1,"nuclear antigen 3A, partial [human gammaherpesvirus 4]",294,True,2026-10-18
+EBNA3A,AFX84629.1,"nuclear antigen 3A, partial [human gammaherpesvirus 4]",294,True,2026-10-18
+EBNA3A,AFX84628.1,"nuclear antigen 3A, partial [human gammaherpesvirus 4]",294,True,2026-10-18
+EBNA3A,CAD53419.1,EBNA3A nuclear protein [Human herpesvirus 4],944,False,2026-10-18

@@ -1,0 +1,61 @@
+
+from Bio import SeqIO
+from pathlib import Path
+from collections import Counter
+import csv
+
+# Locate the downloaded sequences and metadata
+BASE_DIR = Path(__file__).resolve().parent
+RAW_DIR = BASE_DIR / "data" / "raw"
+META_DIR = BASE_DIR / "metadata"
+
+proteins = ["EBNA1", "EBNA3A", "BZLF1"]
+
+# Check sequence quality for each protein
+for protein in proteins:
+
+    # Load protein sequences from FASTA
+    fasta_path = RAW_DIR / f"{protein}.fasta"
+    records = list(SeqIO.parse(fasta_path, "fasta"))
+
+    # Load previously collected NCBI metadata
+    csv_path = META_DIR / f"{protein}_inventory.csv"
+
+    with open(csv_path, newline="", encoding="utf-8") as file:
+        metadata = list(csv.DictReader(file))
+
+    # Check accession consistency between FASTA and CSV
+    fasta_ids = [record.id for record in records]
+    metadata_ids = [row["accession"] for row in metadata]
+
+    ids_match = Counter(fasta_ids) == Counter(metadata_ids)
+
+    # Count incomplete, ambiguous, and duplicate records
+    partial_count = sum(
+        row["partial_label"] == "True"
+        for row in metadata
+    )
+
+    ambiguous_count = sum(
+        "X" in str(record.seq).upper()
+        for record in records
+    )
+
+    invalid_count = sum(
+        any(aa not in "ACDEFGHIKLMNPQRSTVWYXBZJUO"
+            for aa in str(record.seq).upper())
+        for record in records
+    )
+
+    unique_sequences = len(set(
+        str(record.seq).upper() for record in records
+    ))
+
+    # Display the initial QC summary
+    print(f"\n--- {protein} QC ---")
+    print("Total records:", len(records))
+    print("FASTA/CSV IDs match:", ids_match)
+    print("Partial labels:", partial_count)
+    print("Sequences containing X:", ambiguous_count)
+    print("Sequences with invalid characters:", invalid_count)
+    print("Unique sequences:", unique_sequences)

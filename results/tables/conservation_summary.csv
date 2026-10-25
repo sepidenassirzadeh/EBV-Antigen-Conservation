@@ -1,0 +1,4 @@
+protein,reference_region,total_records,eligible_records,exact_records,record_match_percent,unique_full_sequences,exact_unique_sequences,unique_match_percent
+EBNA1,SQSSSSGSPPRRPPPGRRPF,696,59,59,100.0,35,35,100.0
+EBNA3A,FLRGRAYGI,148,58,7,12.07,39,5,12.82
+BZLF1,EPLPQGQLTAY,591,443,421,95.03,63,52,82.54

@@ -1,0 +1,592 @@
+target_protein,accession,description,length,partial_label,retrieval_date
+BZLF1,P13288.2,RecName: Full=Serine/threonine-protein kinase BGLF4,429,False,2026-10-18
+BZLF1,P03191.1,RecName: Full=DNA polymerase processivity factor BMRF1; AltName: Full=Early Antigen Diffused; Short=EA-D; AltName: Full=Polymerase accessory subunit,404,False,2026-10-18
+BZLF1,YGD08580.1,MAG: BZLF1 protein [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,Q3KSS8.1,RecName: Full=Lytic switch protein BZLF1; Short=EB1; AltName: Full=Protein Z; AltName: Full=Trans-activator protein BZLF1; AltName: Full=Zebra; AltName: Full=Zta; AltName: Full=bZIP transcription factor ZEBRA,245,False,2026-10-18
+BZLF1,Q1HVG1.1,RecName: Full=Lytic switch protein BZLF1; Short=EB1; AltName: Full=Protein Z; AltName: Full=Trans-activator protein BZLF1; AltName: Full=Zebra; AltName: Full=Zta; AltName: Full=bZIP transcription factor ZEBRA,245,False,2026-10-18
+BZLF1,P03206.2,RecName: Full=Lytic switch protein BZLF1; Short=EB1; AltName: Full=Protein Z; AltName: Full=Trans-activator protein BZLF1; AltName: Full=Zta; AltName: Full=bZIP transcription factor ZEBRA,245,False,2026-10-18
+BZLF1,4JQX_B,"Chain B, Trans-activator protein BZLF1",12,False,2026-10-18
+BZLF1,4JQV_B,"Chain B, Trans-activator protein BZLF1",8,False,2026-10-18
+BZLF1,3SPV_C,"Chain C, peptide from Trans-activator protein BZLF1",8,False,2026-10-18
+BZLF1,4JRY_C,"Chain C, Trans-activator protein BZLF1",13,False,2026-10-18
+BZLF1,4JRX_C,"Chain C, Trans-activator protein BZLF1",13,False,2026-10-18
+BZLF1,7NX5_F,"Chain F, Trans-activator protein BZLF1",63,False,2026-10-18
+BZLF1,7NX5_E,"Chain E, Trans-activator protein BZLF1",63,False,2026-10-18
+BZLF1,7NX5_B,"Chain B, Trans-activator protein BZLF1",63,False,2026-10-18
+BZLF1,7NX5_A,"Chain A, Trans-activator protein BZLF1",63,False,2026-10-18
+BZLF1,2C9N_Z,"Chain Z, BZLF1 TRANS-ACTIVATOR PROTEIN",63,False,2026-10-18
+BZLF1,2C9N_Y,"Chain Y, BZLF1 TRANS-ACTIVATOR PROTEIN",63,False,2026-10-18
+BZLF1,2C9L_Z,"Chain Z, BZLF1 TRANS-ACTIVATOR PROTEIN",63,False,2026-10-18
+BZLF1,2C9L_Y,"Chain Y, BZLF1 TRANS-ACTIVATOR PROTEIN",63,False,2026-10-18
+BZLF1,WOR10015.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,WOR10007.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,WOR10000.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,WOR09991.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,WOR09983.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,BCK35318.1,protein Zta [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,BCK35233.1,protein Zta [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,BCK35148.1,protein Zta [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,BCK35063.1,protein Zta [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,BCK34978.1,protein Zta [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,BCK34893.1,protein Zta [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,BCK34808.1,protein Zta [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,ATO60602.1,BZLF1 protein [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,ATO60532.1,BZLF1 protein [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,ATO60140.1,BZLF1 protein [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,ATO59811.1,BZLF1 protein [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QHE24203.1,BZLF1 protein [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QHE24117.1,BZLF1 protein [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QBM05792.1,BZLF1 protein [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QBM05637.1,BZLF1 protein [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QBM05478.1,BZLF1 protein [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QBM05395.1,BZLF1 protein [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QBM05312.1,BZLF1 protein [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QBM05229.1,BZLF1 protein [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QBM05148.1,BZLF1 protein [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QBM05065.1,BZLF1 protein [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QBM04982.1,BZLF1 protein [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QBM04899.1,BZLF1 protein [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAR15049.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAR09890.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAR07412.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAR02660.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAR00384.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAQ98177.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAQ96044.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAQ93980.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAQ91983.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAQ90058.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAQ86418.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAQ84708.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAQ83054.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAQ81469.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAQ79954.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAQ78508.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAQ77132.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAQ75825.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAQ74588.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAQ73419.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAQ72318.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAQ71287.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAQ70325.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAQ69431.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAQ68607.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAQ67853.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAQ67169.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAQ66557.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAQ66010.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAQ65531.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAQ65120.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAQ64777.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAQ64504.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAQ64301.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAP80406.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAP66459.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAP52582.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAO97753.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAO84212.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAO44003.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAO30735.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAO17538.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAO04412.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAN91349.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAN78353.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAN65426.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAN52567.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAN39778.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAN27055.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAM89301.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAM76850.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAM64470.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAM39924.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAM27752.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAM15651.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAM03621.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAL79759.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAL67924.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAL56154.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAL44455.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAL32828.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAL21264.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAL09769.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAK86984.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAK75688.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAK53301.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAK42208.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAK31183.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAK20231.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAJ98525.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAJ87774.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAJ77092.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAJ55922.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAJ45441.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAJ35021.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAJ24673.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAJ14386.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAJ04167.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAI94018.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAI44295.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAI34553.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAI24881.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAI15276.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAI05742.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAH96274.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAH86877.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAH77546.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAH68283.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAH59092.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAH49968.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAH40908.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAH22991.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAH14126.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAH05330.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAG96600.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAG87938.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAG79345.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAG70822.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAG62369.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAG53985.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAG45673.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAG37430.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAG29257.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAG21154.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAG13119.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAG05154.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAF97257.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAF89432.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAF81677.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAF73989.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAF58820.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAF51337.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAF43925.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAF36581.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAF22104.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAF14966.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAF07899.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAF00900.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAE93968.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAE87107.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAE80314.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAE73590.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAE66935.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAE60348.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAE53830.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAE47378.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAE40999.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAE34686.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAE28443.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAE22271.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAE16167.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAE10132.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAE04163.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAD92433.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAD86669.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAD80975.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAD75348.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAD69793.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAD64308.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAD58892.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAD53546.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAD48267.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAD43055.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAD37911.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAD27832.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAD22893.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAD18025.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAD13226.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAD08494.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAD03835.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAC99242.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAC94720.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAC90266.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAC85878.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAC81556.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAC77303.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAC73120.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAC69003.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAC64956.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAC60977.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAC57066.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAC53225.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAC49454.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAC45751.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAC42118.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAC38553.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAC35055.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAC31629.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAC28273.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAC24989.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAC21770.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAC18621.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAC15535.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAC12516.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QAC09564.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,QAC06682.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,YP_001129467.1,BZLF1 [Human herpesvirus 4 type 2],245,False,2026-10-18
+BZLF1,YP_401673.1,protein Zta [Human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AWG94348.1,"BZLF1, partial [human gammaherpesvirus 4]",43,True,2026-10-18
+BZLF1,AWG94277.1,"BZLF1, partial [human gammaherpesvirus 4]",43,True,2026-10-18
+BZLF1,AWG94206.1,"BZLF1, partial [human gammaherpesvirus 4]",43,True,2026-10-18
+BZLF1,AWG94139.1,"BZLF1, partial [human gammaherpesvirus 4]",43,True,2026-10-18
+BZLF1,AWG94067.1,"BZLF1, partial [human gammaherpesvirus 4]",43,True,2026-10-18
+BZLF1,AWG93998.1,"BZLF1, partial [human gammaherpesvirus 4]",43,True,2026-10-18
+BZLF1,AWG93930.1,"BZLF1, partial [human gammaherpesvirus 4]",43,True,2026-10-18
+BZLF1,AWG93729.1,"BZLF1, partial [human gammaherpesvirus 4]",43,True,2026-10-18
+BZLF1,AWG93658.1,"BZLF1, partial [human gammaherpesvirus 4]",43,True,2026-10-18
+BZLF1,AWG93583.1,"BZLF1, partial [human gammaherpesvirus 4]",43,True,2026-10-18
+BZLF1,AWG93455.1,"BZLF1, partial [human gammaherpesvirus 4]",43,True,2026-10-18
+BZLF1,AWG93391.1,"BZLF1, partial [human gammaherpesvirus 4]",43,True,2026-10-18
+BZLF1,AWG93212.1,"BZLF1, partial [human gammaherpesvirus 4]",43,True,2026-10-18
+BZLF1,AWG92909.1,"BZLF1, partial [human gammaherpesvirus 4]",43,True,2026-10-18
+BZLF1,AWG92840.1,"BZLF1, partial [human gammaherpesvirus 4]",43,True,2026-10-18
+BZLF1,AWG92704.1,"BZLF1, partial [human gammaherpesvirus 4]",43,True,2026-10-18
+BZLF1,AWG92632.1,"BZLF1, partial [human gammaherpesvirus 4]",43,True,2026-10-18
+BZLF1,AWG92560.1,"BZLF1, partial [human gammaherpesvirus 4]",43,True,2026-10-18
+BZLF1,AWG92489.1,"BZLF1, partial [human gammaherpesvirus 4]",43,True,2026-10-18
+BZLF1,AWG92423.1,"BZLF1, partial [human gammaherpesvirus 4]",43,True,2026-10-18
+BZLF1,AWG92230.1,"BZLF1, partial [human gammaherpesvirus 4]",43,True,2026-10-18
+BZLF1,AWG92048.1,"BZLF1, partial [human gammaherpesvirus 4]",43,True,2026-10-18
+BZLF1,AWG91982.1,"BZLF1, partial [human gammaherpesvirus 4]",43,True,2026-10-18
+BZLF1,AWG91330.1,"BZLF1, partial [human gammaherpesvirus 4]",43,True,2026-10-18
+BZLF1,AWG91200.1,"BZLF1, partial [human gammaherpesvirus 4]",43,True,2026-10-18
+BZLF1,AWG91135.1,"BZLF1, partial [human gammaherpesvirus 4]",43,True,2026-10-18
+BZLF1,AWG91075.1,"BZLF1, partial [human gammaherpesvirus 4]",43,True,2026-10-18
+BZLF1,AWG90781.1,"BZLF1, partial [human gammaherpesvirus 4]",43,True,2026-10-18
+BZLF1,AWG90581.1,"BZLF1, partial [human gammaherpesvirus 4]",43,True,2026-10-18
+BZLF1,AWG90513.1,"BZLF1, partial [human gammaherpesvirus 4]",43,True,2026-10-18
+BZLF1,AWG90443.1,"BZLF1, partial [human gammaherpesvirus 4]",43,True,2026-10-18
+BZLF1,AWG90374.1,"BZLF1, partial [human gammaherpesvirus 4]",43,True,2026-10-18
+BZLF1,AWG90308.1,"BZLF1, partial [human gammaherpesvirus 4]",43,True,2026-10-18
+BZLF1,AWG90117.1,"BZLF1, partial [human gammaherpesvirus 4]",43,True,2026-10-18
+BZLF1,AWG89915.1,"BZLF1, partial [human gammaherpesvirus 4]",43,True,2026-10-18
+BZLF1,AWG89853.1,"BZLF1, partial [human gammaherpesvirus 4]",43,True,2026-10-18
+BZLF1,AWG89723.1,"BZLF1, partial [human gammaherpesvirus 4]",43,True,2026-10-18
+BZLF1,AWG89591.1,"BZLF1, partial [human gammaherpesvirus 4]",43,True,2026-10-18
+BZLF1,AWG89400.1,"BZLF1, partial [human gammaherpesvirus 4]",43,True,2026-10-18
+BZLF1,AWG89335.1,"BZLF1, partial [human gammaherpesvirus 4]",43,True,2026-10-18
+BZLF1,AWG89135.1,"BZLF1, partial [human gammaherpesvirus 4]",43,True,2026-10-18
+BZLF1,AWG89066.1,"BZLF1, partial [human gammaherpesvirus 4]",43,True,2026-10-18
+BZLF1,AWG89004.1,"BZLF1, partial [human gammaherpesvirus 4]",43,True,2026-10-18
+BZLF1,AWG88935.1,"BZLF1, partial [human gammaherpesvirus 4]",43,True,2026-10-18
+BZLF1,AWG88867.1,"BZLF1, partial [human gammaherpesvirus 4]",43,True,2026-10-18
+BZLF1,AWG88806.1,"BZLF1, partial [human gammaherpesvirus 4]",43,True,2026-10-18
+BZLF1,AWG88745.1,"BZLF1, partial [human gammaherpesvirus 4]",43,True,2026-10-18
+BZLF1,AWG88672.1,"BZLF1, partial [human gammaherpesvirus 4]",43,True,2026-10-18
+BZLF1,AWG88537.1,"BZLF1, partial [human gammaherpesvirus 4]",43,True,2026-10-18
+BZLF1,AWG88468.1,"BZLF1, partial [human gammaherpesvirus 4]",43,True,2026-10-18
+BZLF1,AWG88397.1,"BZLF1, partial [human gammaherpesvirus 4]",43,True,2026-10-18
+BZLF1,AWG88327.1,"BZLF1, partial [human gammaherpesvirus 4]",43,True,2026-10-18
+BZLF1,AWG88255.1,"BZLF1, partial [human gammaherpesvirus 4]",43,True,2026-10-18
+BZLF1,AWG88183.1,"BZLF1, partial [human gammaherpesvirus 4]",43,True,2026-10-18
+BZLF1,AWG88049.1,"BZLF1, partial [human gammaherpesvirus 4]",43,True,2026-10-18
+BZLF1,AWG87977.1,"BZLF1, partial [human gammaherpesvirus 4]",43,True,2026-10-18
+BZLF1,AWG87904.1,"BZLF1, partial [human gammaherpesvirus 4]",43,True,2026-10-18
+BZLF1,AWG87831.1,"BZLF1, partial [human gammaherpesvirus 4]",43,True,2026-10-18
+BZLF1,AWG87762.1,"BZLF1, partial [human gammaherpesvirus 4]",43,True,2026-10-18
+BZLF1,AWG87696.1,"BZLF1, partial [human gammaherpesvirus 4]",43,True,2026-10-18
+BZLF1,AWG87635.1,"BZLF1, partial [human gammaherpesvirus 4]",43,True,2026-10-18
+BZLF1,AWG87573.1,"BZLF1, partial [human gammaherpesvirus 4]",43,True,2026-10-18
+BZLF1,AWG87513.1,"BZLF1, partial [human gammaherpesvirus 4]",43,True,2026-10-18
+BZLF1,ATO60747.1,BZLF1 protein [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,ATO60675.1,BZLF1 protein [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,ATO60462.1,BZLF1 protein [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,ATO60386.1,BZLF1 protein [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,ATO60304.1,BZLF1 protein [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,ATO60222.1,BZLF1 protein [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,ATO60058.1,BZLF1 protein [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,ATO59975.1,BZLF1 protein [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,ATO59894.1,BZLF1 protein [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,ASU89835.1,hypothetical protein [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,ASU89761.1,hypothetical protein [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,ASU89685.1,hypothetical protein [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,ASU89611.1,hypothetical protein [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,CEQ33771.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,ANQ44961.1,hypothetical protein YCCEL1_031 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,ANQ44893.1,hypothetical protein SNU-719_031 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,ANQ44822.1,hypothetical protein EBVaGC2_030 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,ANQ44755.1,hypothetical protein EBVaGC1_028 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,AAA66529.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AAA66528.1,"BRLF1, partial [human gammaherpesvirus 4]",244,True,2026-10-18
+BZLF1,AAA65495.1,BZLF1 [human gammaherpesvirus 4],209,False,2026-10-18
+BZLF1,ANI26362.1,hypothetical protein [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,ANI26284.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,ANI26205.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,ANI26124.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,ALV83243.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,ALV83173.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,ALV83104.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,ALV83037.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,ALV82968.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,ALV82899.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,ALV82831.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,ALV82763.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,ALS46753.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,BAU51563.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,BAU51479.1,hypothetical protein [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,BAP94413.1,trans-activator protein BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,BAP94349.1,trans-activator protein BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AKA28829.1,hypothetical protein HHV4_BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AKA28756.1,hypothetical protein HHV4_BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AKA28682.1,hypothetical protein HHV4_BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AKA28608.1,hypothetical protein HHV4_BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AKA28466.1,hypothetical protein HHV4_BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AKA28396.1,hypothetical protein HHV4_BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,AKA28326.1,hypothetical protein [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,AKE13281.1,hypothetical protein HHV4_BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,ALQ28705.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,ALQ28631.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,ALQ28524.1,transcription activator [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,ALQ28447.1,transcription activator [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,ALQ28371.1,transcription activator [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,ALQ28297.1,transcription activator [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,CEQ36645.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,CGH11951.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,CEQ43459.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,CEQ43376.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,CEQ43295.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,CEQ38216.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,CEQ38133.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,CEQ38050.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,CEQ37968.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,CEQ37886.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,CEQ37803.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,CEQ37720.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,CEQ37637.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,CEQ37554.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,CEQ37472.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,CEQ37389.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,CEQ37306.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,CEQ37223.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,CEQ37140.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,CEQ37058.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,CEQ36975.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,CEQ36893.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,CEQ36810.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,CEQ36728.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,CEQ36562.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,CEQ36480.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,CEQ36398.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,CEQ36316.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,CEQ36233.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,CEQ36150.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,CEQ36067.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,CEQ35984.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,CEQ35901.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,CEQ35819.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,CEQ35736.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,CEQ35653.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,CEQ35487.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,CEQ35413.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,CEQ35333.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,CEQ35252.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,CEQ35169.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,CEQ35086.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,CEQ35003.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,CEQ34922.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,CEQ34839.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,CEQ34758.1,BZLF1 [human gammaherpesvirus 4],237,False,2026-10-18
+BZLF1,CEQ34677.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,CEQ34597.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,CEQ34514.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,CEQ34431.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,CEQ34349.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,CEQ34267.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,CEQ34184.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,CEQ34101.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,CEQ34018.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,CEQ33935.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,CEQ33853.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,CEQ33689.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,CEQ33606.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,CEQ33524.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,CEQ33444.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,CEQ33361.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,CEQ33280.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,CEQ33099.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,CEQ33016.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,CEQ32933.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,CEQ32851.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,CEQ32768.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,CEQ32686.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,CEQ32604.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,CEQ32523.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,CEQ32440.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,CEQ32359.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,BAQ20374.1,trans-activator protein BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,BAQ20313.1,trans-activator protein BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,BAQ20239.1,trans-activator protein BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,BAQ20167.1,trans-activator protein BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,BAQ20134.1,trans-activator protein BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,BAQ20069.1,trans-activator protein BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,BAQ20018.1,trans-activator protein BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIM62252.1,transmembrane protein [human gammaherpesvirus 4],386,False,2026-10-18
+BZLF1,AIM62251.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIM62250.1,BNLF2a [human gammaherpesvirus 4],60,False,2026-10-18
+BZLF1,AIM62249.1,BNLF2b [human gammaherpesvirus 4],98,False,2026-10-18
+BZLF1,AIM62248.1,subunit of terminase [human gammaherpesvirus 4],685,False,2026-10-18
+BZLF1,AIM62247.1,glycoprotein [human gammaherpesvirus 4],857,False,2026-10-18
+BZLF1,AIM62246.1,DNA polymerase catalytic subunit [human gammaherpesvirus 4],1015,False,2026-10-18
+BZLF1,AIM62245.1,G protein-coupled receptor [human gammaherpesvirus 4],312,False,2026-10-18
+BZLF1,AIM62244.1,LF1 [human gammaherpesvirus 4],469,False,2026-10-18
+BZLF1,AIM62243.1,hypothetical protein [human gammaherpesvirus 4],429,False,2026-10-18
+BZLF1,AIM62242.1,LF3 [human gammaherpesvirus 4],924,False,2026-10-18
+BZLF1,AIM62241.1,membrane glycoprotein [human gammaherpesvirus 4],248,False,2026-10-18
+BZLF1,AIM62240.1,capsid maturational protease [human gammaherpesvirus 4],605,False,2026-10-18
+BZLF1,AIM62239.1,BVLF1 [human gammaherpesvirus 4],272,False,2026-10-18
+BZLF1,AIM62238.1,putative portal-capping protein [human gammaherpesvirus 4],570,False,2026-10-18
+BZLF1,AIM62237.1,nuclear protein [human gammaherpesvirus 4],248,False,2026-10-18
+BZLF1,AIM62236.1,thymidine kinase [human gammaherpesvirus 4],607,False,2026-10-18
+BZLF1,AIM62235.1,envelope glycoprotein gH [human gammaherpesvirus 4],706,False,2026-10-18
+BZLF1,AIM62234.1,tegument protein [human gammaherpesvirus 4],404,False,2026-10-18
+BZLF1,AIM62233.1,major capsid protein [human gammaherpesvirus 4],1381,False,2026-10-18
+BZLF1,AIM62232.1,capsid triplex subunit 2 [human gammaherpesvirus 4],301,False,2026-10-18
+BZLF1,AIM62231.1,BDLF2 [human gammaherpesvirus 4],420,False,2026-10-18
+BZLF1,AIM62230.1,BDLF3 [human gammaherpesvirus 4],77,False,2026-10-18
+BZLF1,AIM62229.1,BDLF4 [human gammaherpesvirus 4],225,False,2026-10-18
+BZLF1,AIM62228.1,tegument protein [human gammaherpesvirus 4],336,False,2026-10-18
+BZLF1,AIM62227.1,putative ATPase subunit of terminase [human gammaherpesvirus 4],325,False,2026-10-18
+BZLF1,AIM62226.1,BGLF3 [human gammaherpesvirus 4],332,False,2026-10-18
+BZLF1,AIM62225.1,tegument protein [human gammaherpesvirus 4],153,False,2026-10-18
+BZLF1,AIM62224.1,serine-threonine protein kinase [human gammaherpesvirus 4],429,False,2026-10-18
+BZLF1,AIM62223.1,deoxyribonuclease [human gammaherpesvirus 4],470,False,2026-10-18
+BZLF1,AIM62222.1,alkaline exonuclease [human gammaherpesvirus 4],75,False,2026-10-18
+BZLF1,AIM62221.1,envelope glycoprotein gM [human gammaherpesvirus 4],405,False,2026-10-18
+BZLF1,AIM62220.1,tegument protein [human gammaherpesvirus 4],278,False,2026-10-18
+BZLF1,AIM62219.1,portal protein [human gammaherpesvirus 4],613,False,2026-10-18
+BZLF1,AIM62218.1,helicase-primase subunit [human gammaherpesvirus 4],809,False,2026-10-18
+BZLF1,AIM62217.1,BKRF4 [human gammaherpesvirus 4],217,False,2026-10-18
+BZLF1,AIM62216.1,uracil DNA glycosylase [human gammaherpesvirus 4],255,False,2026-10-18
+BZLF1,AIM62215.1,virion glycoprotein gL [human gammaherpesvirus 4],137,False,2026-10-18
+BZLF1,AIM62214.1,BRRF2 [human gammaherpesvirus 4],537,False,2026-10-18
+BZLF1,AIM62213.1,BRRF1 [human gammaherpesvirus 4],310,False,2026-10-18
+BZLF1,AIM62212.1,transactivator [human gammaherpesvirus 4],605,False,2026-10-18
+BZLF1,AIM62211.1,EBNA-3b [human gammaherpesvirus 4],938,False,2026-10-18
+BZLF1,AIM62210.1,EBNA-3a [human gammaherpesvirus 4],944,False,2026-10-18
+BZLF1,AIM62209.1,BLLF2 [human gammaherpesvirus 4],148,False,2026-10-18
+BZLF1,AIM62208.1,envelope glycoprotein gp350 [human gammaherpesvirus 4],907,False,2026-10-18
+BZLF1,AIM62207.1,BLRF2 [human gammaherpesvirus 4],162,False,2026-10-18
+BZLF1,AIM62206.1,envelope glycoprotein gN [human gammaherpesvirus 4],102,False,2026-10-18
+BZLF1,AIM62205.1,dUTPase [human gammaherpesvirus 4],278,False,2026-10-18
+BZLF1,AIM62204.1,tegument protein [human gammaherpesvirus 4],218,False,2026-10-18
+BZLF1,AIM62203.1,helicase-primase subunit [human gammaherpesvirus 4],874,False,2026-10-18
+BZLF1,AIM62202.1,multiple transmembrane protein [human gammaherpesvirus 4],357,False,2026-10-18
+BZLF1,AIM62201.1,DNA polymerase processivity subunit [human gammaherpesvirus 4],404,False,2026-10-18
+BZLF1,AIM62200.1,ribonucleotide reductase small subunit [human gammaherpesvirus 4],302,False,2026-10-18
+BZLF1,AIM62199.1,ribonucleotide reductase large subunit [human gammaherpesvirus 4],826,False,2026-10-18
+BZLF1,AIM62198.1,capsid triplex subunit 1 [human gammaherpesvirus 4],364,False,2026-10-18
+BZLF1,AIM62197.1,large tegument protein [human gammaherpesvirus 4],3149,False,2026-10-18
+BZLF1,AIM62196.1,BFRF3 [human gammaherpesvirus 4],176,False,2026-10-18
+BZLF1,AIM62195.1,BFRF2 [human gammaherpesvirus 4],591,False,2026-10-18
+BZLF1,AIM62194.1,BFRF1 [human gammaherpesvirus 4],336,False,2026-10-18
+BZLF1,AIM62193.1,BFRF1a [human gammaherpesvirus 4],135,False,2026-10-18
+BZLF1,AIM62192.1,BFLF1 [human gammaherpesvirus 4],525,False,2026-10-18
+BZLF1,AIM62191.1,vbcl-2a [human gammaherpesvirus 4],191,False,2026-10-18
+BZLF1,AIM62190.1,BHLF1 [human gammaherpesvirus 4],660,False,2026-10-18
+BZLF1,AIM62189.1,latency protein [human gammaherpesvirus 4],487,False,2026-10-18
+BZLF1,AIM62188.1,latency protein [human gammaherpesvirus 4],495,False,2026-10-18
+BZLF1,AIM62187.1,vIL-10 [human gammaherpesvirus 4],170,False,2026-10-18
+BZLF1,AIM62186.1,FGAM-synthase [human gammaherpesvirus 4],1318,False,2026-10-18
+BZLF1,AIM62185.1,LMP-2 [human gammaherpesvirus 4],378,False,2026-10-18
+BZLF1,AIE88991.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIE88915.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIE88837.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,AIE88760.1,BZLF1 [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,AIE88684.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIE88608.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIE88532.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIE88454.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIE89068.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIA57660.1,viral immediatly early antigen [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIA57659.1,viral immediatly early antigen [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIA57658.1,viral immediatly early antigen [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIA57657.1,viral immediatly early antigen [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,AIA57656.1,viral immediatly early antigen [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,AIA57655.1,viral immediatly early antigen [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,AIA57654.1,viral immediatly early antigen [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIA57653.1,viral immediatly early antigen [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIA57652.1,viral immediatly early antigen [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIA57651.1,viral immediatly early antigen [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIA57650.1,viral immediatly early antigen [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIA57649.1,viral immediatly early antigen [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIA57648.1,viral immediatly early antigen [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIA57647.1,viral immediatly early antigen [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIA57646.1,viral immediatly early antigen [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,AIA57645.1,viral immediatly early antigen [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,AIA57644.1,viral immediatly early antigen [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,AIA57643.1,viral immediatly early antigen [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIA57642.1,viral immediatly early antigen [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,AIA57641.1,viral immediatly early antigen [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIA57640.1,viral immediatly early antigen [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIA57639.1,viral immediatly early antigen [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIA57638.1,viral immediatly early antigen [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,AIA57637.1,viral immediatly early antigen [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIA57636.1,viral immediatly early antigen [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIA57635.1,viral immediatly early antigen [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIA57634.1,viral immediatly early antigen [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIA57633.1,viral immediatly early antigen [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIA57632.1,viral immediatly early antigen [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIA57631.1,viral immediatly early antigen [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIA57630.1,viral immediatly early antigen [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIA57629.1,viral immediatly early antigen [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIA57628.1,viral immediatly early antigen [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIA57627.1,viral immediatly early antigen [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIA57626.1,viral immediatly early antigen [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIA57625.1,viral immediatly early antigen [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIA57624.1,viral immediatly early antigen [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIA57623.1,viral immediatly early antigen [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIA57622.1,viral immediatly early antigen [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIA57621.1,viral immediatly early antigen [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIA57620.1,viral immediatly early antigen [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIA57619.1,viral immediatly early antigen [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIA57618.1,viral immediatly early antigen [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,AIA57617.1,viral immediatly early antigen [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,AIA57616.1,viral immediatly early antigen [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIA57615.1,viral immediatly early antigen [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIA57614.1,viral immediatly early antigen [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIA57613.1,viral immediatly early antigen [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIA57612.1,viral immediatly early antigen [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIA57611.1,viral immediatly early antigen [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIA57610.1,viral immediatly early antigen [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIA57609.1,viral immediatly early antigen [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIA57608.1,viral immediatly early antigen [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIA57607.1,viral immediatly early antigen [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIA57606.1,viral immediatly early antigen [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIA57605.1,viral immediatly early antigen [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIA57604.1,viral immediatly early antigen [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIA57603.1,viral immediatly early antigen [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIA57602.1,viral immediatly early antigen [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,AIA57601.1,viral immediatly early antigen [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,AIA57600.1,viral immediatly early antigen [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,AIA57599.1,viral immediatly early antigen [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,AIA57598.1,viral immediatly early antigen [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIA57597.1,viral immediatly early antigen [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIA57596.1,viral immediatly early antigen [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,AIA57595.1,viral immediatly early antigen [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,AIA57594.1,viral immediatly early antigen [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIA57593.1,viral immediatly early antigen [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIA57592.1,viral immediatly early antigen [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIA57591.1,viral immediatly early antigen [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIA57590.1,viral immediatly early antigen [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,AIA57589.1,viral immediatly early antigen [human gammaherpesvirus 4],244,False,2026-10-18
+BZLF1,AIA57588.1,viral immediatly early antigen [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AIA57587.1,viral immediatly early antigen [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AFJ06861.1,BRLF1 [human gammaherpesvirus 4],605,False,2026-10-18
+BZLF1,AFJ06860.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AGZ95183.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AHA36444.1,bZIP transcription factor [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AGL80703.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AFY97941.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AFY97859.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,AAA65492.1,BZLF1 [human gammaherpesvirus 4],209,False,2026-10-18
+BZLF1,AEM00641.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,ABB89248.1,BZLF1 [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,ABA06392.1,Z protein [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,ABY56269.1,ZEBRA [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,ABY56268.1,ZEBRA [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,ABY56267.1,ZEBRA [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,ABY56266.1,ZEBRA [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,ABY56265.1,ZEBRA [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,CAD53423.1,BZLF1 [Human herpesvirus 4],245,False,2026-10-18
+BZLF1,CAA24861.1,unnamed protein product [human gammaherpesvirus 4],245,False,2026-10-18
+BZLF1,QQBE27,BZLF1 protein - human herpesvirus 4 (strain B95-8),200,False,2026-10-18
+BZLF1,1512292A,BZLF1 gene,245,False,2026-10-18
