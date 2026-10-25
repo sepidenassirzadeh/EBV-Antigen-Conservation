@@ -215,7 +215,7 @@ Figure 1 compares reference-peptide exact-match frequencies across EBNA1, EBNA3A
 
 Figure 2 shows amino acid variability across the nine positions of the selected EBNA3A region. Higher Shannon entropy indicates greater amino acid diversity at a position.
 
-### Record Screening and Reference Matching
+#### Figure 3. Record Screening and Reference Matching
 
 ![Record screening and reference matching](results/figures/figure3_qc_flow.png)
 
@@ -280,7 +280,7 @@ No direct relationship between the identified sequence variants and MS susceptib
 - Matplotlib
 - Python standard-library modules for data processing and file handling
 
-Exact dependency versions and execution instructions will be included in the reproducibility documentation.
+Exact dependency versions are provided in `requirements.txt`, and execution instructions are included in the Installation and Usage section.
 
 ## Reproducibility
 
@@ -295,7 +295,7 @@ The analysis workflow includes:
 7. Calculating descriptive sequence conservation metrics.
 8. Generating summary figures.
 
-Final dependency specifications, execution instructions, and quality-control documentation remain to be completed before repository release.
+The repository includes dependency specifications, execution instructions, quality-control summaries, analysis scripts, and generated results. Methodological limitations and unresolved reference-coordinate differences are documented separately.
 
 ## Installation and Usage
 
