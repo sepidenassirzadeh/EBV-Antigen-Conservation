@@ -280,6 +280,50 @@ The analysis workflow includes:
 
 Final dependency specifications, execution instructions, and quality-control documentation remain to be completed before repository release.
 
+## Installation and Usage
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/sepidenassirzadeh/EBV-Antigen-Conservation.git
+cd EBV-Antigen-Conservation
+```
+
+### 2. Create a Virtual Environment
+
+The analysis was tested using Python 3.15.0rc3 on Windows.
+
+```powershell
+python -m venv .venv
+.\.venv\Scripts\python.exe -m pip install -r requirements.txt
+```
+
+### 3. Run the Analysis
+
+The repository includes the input FASTA sequences, protein metadata, and gene-validation results used in the analysis.
+
+Run the complete computational pipeline:
+
+```powershell
+.\.venv\Scripts\python.exe run_pipeline.py
+```
+
+The pipeline performs protein identity screening, multiple sequence alignment, reference-relative antigen mapping, peptide variant analysis, conservation calculations, and figure generation.
+
+### 4. Output Files
+
+Generated results are stored in the following directories:
+
+- `results/alignments/` — Multiple sequence alignments and identity-screening records
+- `results/tables/` — Antigen-region mapping, variant summaries, and conservation statistics
+- `results/figures/` — Graphical summaries
+
+### Reproducibility Note
+
+The analysis was successfully reproduced in a newly created Python virtual environment using the supplied input files.
+
+The workflow does not require repeating the NCBI downloads to reproduce the existing analysis results. However, rerunning data retrieval may produce a different collection as public database records are updated.
+
 ## Scientific References
 
 1. **Bjornevik K, et al. (2022).** Longitudinal analysis reveals high prevalence of Epstein–Barr virus associated with multiple sclerosis. *Science*, 375, 296–301.  
