@@ -1,4 +1,3 @@
-
 from Bio import SeqIO
 from Bio.Seq import Seq
 from Bio.SeqRecord import SeqRecord
@@ -43,7 +42,7 @@ STANDARD_AA = set("ACDEFGHIKLMNPQRSTVWY")
 # Initialize the multiple sequence aligner
 aligner = Aligner(threads=2)
 
-# Load provisionally identified BZLF1 accessions
+
 # Load BZLF1 accessions confirmed by GenBank gene annotation
 validation_file = (
     BASE / "results/tables/BZLF1_gene_validation.csv"
@@ -159,12 +158,13 @@ for protein, info in targets.items():
         row["status"] for row in audit
     )))
 
-    provisional = sum(
-        row["identity_evidence"] == "SIMILARITY_PROVISIONAL"
+    # Count records accepted through GenBank gene validation
+    gene_confirmed = sum(
+        row["identity_evidence"] == "GENBANK_GENE_CONFIRMED"
         for row in audit
-    )
+)
 
-    print("Provisionally included:", provisional)
+    print("Additional gene-confirmed records:", gene_confirmed)
     print("Unique sequences for MSA:", len(unique))
 
     # Convert unique sequences to PyFAMSA format

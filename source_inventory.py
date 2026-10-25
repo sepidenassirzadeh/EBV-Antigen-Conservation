@@ -1,31 +1,57 @@
 from Bio import Entrez, SeqIO
 from pathlib import Path
 import csv
+import os
 
-# Set the email address required for NCBI access
-Entrez.email = os.environ.get("NCBI_EMAIL")
+# Configure NCBI access
+email = os.environ.get("NCBI_EMAIL")
 
-if not Entrez.email:
+if not email:
     raise ValueError("Please set the NCBI_EMAIL environment variable.")
 
-# Search NCBI for EBNA3A protein records
-query = '"Human gammaherpesvirus 4"[Organism] AND EBNA3A[All Fields]'
+Entrez.email = email
 
-with Entrez.esearch(db="protein", term=query, retmax=200) as handle:
+# Define project paths
+BASE = Path(__file__).resolve().parent
+OUTPUT_DIR = BASE / "metadata"
+OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+
+# Save the exploratory inventory separately
+OUTPUT = OUTPUT_DIR / "EBNA3A_inventory_review.csv"
+
+# Prevent accidental overwriting
+if OUTPUT.exists():
+    raise FileExistsError(
+        f"Review inventory already exists: {OUTPUT}"
+    )
+
+# Search NCBI for EBNA3A candidate records
+query = (
+    '"Human gammaherpesvirus 4"[Organism] '
+    'AND EBNA3A[All Fields]'
+)
+
+with Entrez.esearch(
+    db="protein",
+    term=query,
+    retmax=10000
+) as handle:
     results = Entrez.read(handle)
 
-ids = results["IdList"]
+ids = list(results["IdList"])
+total = int(results["Count"])
 
-print("Total results:", results["Count"])
-print("IDs retrieved:", len(ids))
+# Check that all search IDs were retrieved
+if len(ids) != total:
+    raise ValueError(
+        f"Incomplete search results: {len(ids)}/{total}"
+    )
 
-# Create a folder for metadata files
-Path("metadata").mkdir(exist_ok=True)
+print("Total results:", total)
 
-# Create an empty list to store protein information
+# Collect protein metadata
 records_info = []
 
-# Fetch protein records in batches of 25
 for start in range(0, len(ids), 25):
     batch = ids[start:start + 25]
 
@@ -36,30 +62,41 @@ for start in range(0, len(ids), 25):
         retmode="text"
     ) as handle:
 
-        # Extract metadata from each protein record
         for record in SeqIO.parse(handle, "genbank"):
             records_info.append({
                 "accession": record.id,
                 "description": record.description,
                 "length": len(record.seq),
-                "partial_label": "partial" in record.description.lower()
+                "partial_label": (
+                    "partial" in record.description.lower()
+                )
             })
 
-# Save all retrieved records in a CSV inventory
+# Verify the number of retrieved records
+if len(records_info) != total:
+    raise ValueError(
+        f"Retrieved {len(records_info)} of {total} records"
+    )
+
+# Save the review inventory
 with open(
-    "metadata/ebna3a_inventory.csv",
+    OUTPUT,
     "w",
     newline="",
     encoding="utf-8"
 ) as file:
-
     writer = csv.DictWriter(
         file,
-        fieldnames=["accession", "description", "length", "partial_label"]
+        fieldnames=[
+            "accession",
+            "description",
+            "length",
+            "partial_label"
+        ]
     )
 
     writer.writeheader()
     writer.writerows(records_info)
 
 print("Records saved:", len(records_info))
-print("Inventory saved successfully!")
+print("Review inventory saved:", OUTPUT)

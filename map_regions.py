@@ -1,4 +1,3 @@
-
 from Bio import SeqIO
 from pathlib import Path
 from collections import Counter
@@ -45,6 +44,14 @@ for protein, (ref_id, start, end, expected) in targets.items():
 
             if start <= position <= end:
                 columns.append(column)
+
+    # Verify the number of mapped reference positions
+    expected_length = end - start + 1
+
+    if len(columns) != expected_length:
+     raise ValueError(
+        f"Incorrect mapped region length: {protein}"
+    )
 
     # Verify the mapped reference antigen region
     ref_region = "".join(reference[i] for i in columns)

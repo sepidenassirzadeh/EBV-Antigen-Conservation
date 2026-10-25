@@ -1,4 +1,3 @@
-
 from pathlib import Path
 from collections import Counter
 import csv
@@ -10,7 +9,7 @@ MAPPING = BASE / "results" / "tables" / "antigen_region_mapping.csv"
 
 PROTEINS = ["EBNA1", "EBNA3A", "BZLF1"]
 
-# Summarize initial protein identity screening
+# Summarize protein identity screening results
 for protein in PROTEINS:
 
     audit_file = ALIGNMENTS / f"{protein}_identity_audit.csv"
@@ -30,43 +29,26 @@ for protein in PROTEINS:
 with open(MAPPING, newline="", encoding="utf-8") as file:
     mapping = list(csv.DictReader(file))
 
-# Identify the mapping-status column from actual values
-known_statuses = {
-    "EXACT_MATCH",
-    "VARIANT",
-    "INCOMPLETE_REGION"
-}
+# Verify that the expected status column exists
+if not mapping or "region_status" not in mapping[0]:
+    raise ValueError("Missing region_status column in mapping table.")
 
-status_columns = [
-    column
-    for column in mapping[0]
-    if any(
-        row[column] in known_statuses
-        for row in mapping
-    )
-]
-
+# Display region-mapping statuses for each protein
 print("\n--- Region Mapping ---")
-print("CSV columns:", list(mapping[0]))
 
-# Display mapping status frequencies by protein
-if len(status_columns) == 1:
-    status_col = status_columns[0]
+for protein in PROTEINS:
 
-    for protein in PROTEINS:
-        rows = [
-            row for row in mapping
-            if row.get("protein") == protein
-        ]
+    protein_rows = [
+        row for row in mapping
+        if row["protein"] == protein
+    ]
 
-        print(f"\n{protein}:")
-        print("Total mapped records:", len(rows))
+    counts = Counter(
+        row["region_status"] for row in protein_rows
+    )
 
-        counts = Counter(row[status_col] for row in rows)
+    print(f"\n{protein}:")
+    print("Total mapped records:", len(protein_rows))
 
-        for status, count in counts.most_common():
-            print(f"{status}: {count}")
-
-else:
-    print("Mapping status column needs manual review.")
-    print("Candidate columns:", status_columns)
+    for status, count in counts.most_common():
+        print(f"{status}: {count}")

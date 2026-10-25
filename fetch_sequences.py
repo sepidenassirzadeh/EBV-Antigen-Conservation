@@ -1,27 +1,79 @@
-
 from Bio import Entrez, SeqIO
 from pathlib import Path
 from datetime import date
 from http.client import RemoteDisconnected
 from urllib.error import URLError, HTTPError
 import csv
-import time
 import os
+import time
 
+# Configure NCBI access
+email = os.environ.get("NCBI_EMAIL")
 
-# Set up NCBI access and project directories
-Entrez.email = os.environ.get("NCBI_EMAIL")
-
-if not Entrez.email:
+if not email:
     raise ValueError("Please set the NCBI_EMAIL environment variable.")
 
-# Define the target proteins
-proteins = ["EBNA1", "EBNA3A", "BZLF1"]
+Entrez.email = email
 
-# Search NCBI and retrieve all matching protein IDs
-for protein in proteins:
+# Define project directories
+BASE = Path(__file__).resolve().parent
+RAW_DIR = BASE / "data" / "raw"
+META_DIR = BASE / "metadata"
 
-    query = f'"Human gammaherpesvirus 4"[Organism] AND {protein}[All Fields]'
+RAW_DIR.mkdir(parents=True, exist_ok=True)
+META_DIR.mkdir(parents=True, exist_ok=True)
+
+# Define target proteins
+PROTEINS = ["EBNA1", "EBNA3A", "BZLF1"]
+
+# Retrieve NCBI records with retries
+def fetch_batch(ids):
+    for attempt in range(5):
+        try:
+            with Entrez.efetch(
+                db="protein",
+                id=",".join(ids),
+                rettype="gb",
+                retmode="text"
+            ) as handle:
+                records = list(SeqIO.parse(handle, "genbank"))
+
+            if len(records) != len(ids):
+                raise ValueError("Incomplete batch response")
+
+            return records
+
+        except (
+            RemoteDisconnected,
+            URLError,
+            HTTPError,
+            ConnectionResetError,
+            TimeoutError,
+            ValueError
+        ) as error:
+            print(f"Retry {attempt + 1}/5: {error}")
+
+            if attempt == 4:
+                raise
+
+            time.sleep(3 * (attempt + 1))
+
+# Process each target protein
+for protein in PROTEINS:
+
+    fasta_path = RAW_DIR / f"{protein}.fasta"
+    csv_path = META_DIR / f"{protein}_inventory.csv"
+
+    # Protect existing input datasets
+    if fasta_path.exists() or csv_path.exists():
+        print(f"{protein}: existing dataset found; skipping download.")
+        continue
+
+    # Search for candidate protein records
+    query = (
+        f'"Human gammaherpesvirus 4"[Organism] '
+        f'AND {protein}[All Fields]'
+    )
 
     with Entrez.esearch(
         db="protein",
@@ -30,103 +82,62 @@ for protein in proteins:
     ) as handle:
         results = Entrez.read(handle)
 
-    ids = results["IdList"]
+    ids = list(results["IdList"])
     total = int(results["Count"])
 
-    print(f"\n{protein}: {total} search results")
-
     if len(ids) != total:
-        raise ValueError(f"Incomplete ID retrieval for {protein}")
+        raise ValueError(f"Incomplete ID retrieval: {protein}")
 
-    fasta_path = RAW_DIR / f"{protein}.fasta"
-    csv_path = META_DIR / f"{protein}_inventory.csv"
+    print(f"\n{protein}: {total} candidate records")
 
-    # Load previously saved accessions to resume interrupted downloads
-    saved_ids = set()
+    # Download all records before saving output files
+    records = []
 
-    if csv_path.exists():
-        with open(csv_path, newline="", encoding="utf-8") as file:
-            saved_ids = {
-                row["accession"]
-                for row in csv.DictReader(file)
-            }
-
-    # Fetch records in batches with retries
     for start in range(0, len(ids), 10):
-
         batch = ids[start:start + 10]
+        records.extend(fetch_batch(batch))
 
-        for attempt in range(5):
-            try:
-                with Entrez.efetch(
-                    db="protein",
-                    id=",".join(batch),
-                    rettype="gb",
-                    retmode="text"
-                ) as handle:
-                    batch_records = list(
-                        SeqIO.parse(handle, "genbank")
-                    )
+    # Verify downloaded accession uniqueness
+    accessions = [record.id for record in records]
 
-                if len(batch_records) != len(batch):
-                    raise ValueError("Incomplete batch response")
+    if len(accessions) != len(set(accessions)):
+        raise ValueError(f"Duplicate accessions: {protein}")
 
-                break
+    if len(records) != total:
+        raise ValueError(f"Record count mismatch: {protein}")
 
-            except (RemoteDisconnected, URLError, HTTPError,
-                    ConnectionResetError, TimeoutError, ValueError) as error:
+    # Prepare metadata for every downloaded record
+    metadata = []
 
-                print(f"Retry {attempt + 1}/5: {error}")
+    for record in records:
+        metadata.append({
+            "target_protein": protein,
+            "accession": record.id,
+            "description": record.description,
+            "length": len(record.seq),
+            "partial_label": (
+                "partial" in record.description.lower()
+            ),
+            "retrieval_date": date.today().isoformat()
+        })
 
-                if attempt == 4:
-                    raise
+    # Write downloaded sequences
+    SeqIO.write(records, fasta_path, "fasta")
 
-                time.sleep(3 * (attempt + 1))
+    # Write accession metadata
+    with open(
+        csv_path,
+        "w",
+        newline="",
+        encoding="utf-8"
+    ) as file:
+        writer = csv.DictWriter(
+            file,
+            fieldnames=list(metadata[0].keys())
+        )
+        writer.writeheader()
+        writer.writerows(metadata)
 
-        # Keep only records that have not already been saved
-        new_records = [
-            record for record in batch_records
-            if record.id not in saved_ids
-        ]
-
-        if new_records:
-
-            # Append validated records to FASTA
-            with open(fasta_path, "a") as fasta_file:
-                SeqIO.write(new_records, fasta_file, "fasta")
-
-            # Append metadata to the inventory CSV
-            file_exists = csv_path.exists() and csv_path.stat().st_size > 0
-
-            with open(csv_path, "a", newline="", encoding="utf-8") as file:
-                writer = csv.DictWriter(
-                    file,
-                    fieldnames=[
-                        "target_protein",
-                        "accession",
-                        "description",
-                        "length",
-                        "partial_label",
-                        "retrieval_date"
-                    ]
-                )
-
-                if not file_exists:
-                    writer.writeheader()
-
-                for record in new_records:
-                    writer.writerow({
-                        "target_protein": protein,
-                        "accession": record.id,
-                        "description": record.description,
-                        "length": len(record.seq),
-                        "partial_label": "partial" in record.description.lower(),
-                        "retrieval_date": date.today().isoformat()
-                    })
-
-                    saved_ids.add(record.id)
-
-        print(f"{protein}: saved {len(saved_ids)} records")
+    print(f"{protein}: saved {len(records)} records")
 
 print("\nSequence retrieval completed!")
-

@@ -1,4 +1,3 @@
-
 from pathlib import Path
 from collections import Counter
 import csv
@@ -52,10 +51,16 @@ for protein in proteins:
 
     exact = region_counts["EXACT_MATCH"]
 
-    # Verify that all records are represented
-    assert len(region_rows) == initial, protein
-    assert comparable <= screened <= initial, protein
+    # Validate record counts across analysis stages
+    if len(region_rows) != initial:
+     raise ValueError(
+        f"Mapping and audit record counts differ for {protein}"
+    )
 
+    if not (0 <= exact <= comparable <= screened <= initial):
+     raise ValueError(
+        f"Inconsistent analysis-stage counts for {protein}"
+    )
     summary.append([initial, screened, comparable, exact])
 
 # Plot record counts across the analysis stages
@@ -88,7 +93,7 @@ for i, protein in enumerate(proteins):
 ax.set_xticks(x)
 ax.set_xticklabels(stages)
 ax.set_ylabel("Number of accession records")
-ax.set_title("EBV Antigen Analysis:Record Screening and Reference Matching ")
+ax.set_title("EBV Antigen Analysis: Record Screening and Reference Matching")
 ax.legend()
 ax.set_ylim(0, max(row[0] for row in summary) * 1.15)
 

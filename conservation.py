@@ -1,4 +1,3 @@
-
 from pathlib import Path
 from collections import Counter
 from math import log2
@@ -33,11 +32,23 @@ for protein in proteins:
         if row["region_status"] in ("EXACT_MATCH", "VARIANT")
     ]
 
+    # Stop if no comparable antigen regions are available
     if not eligible:
-        print(f"No eligible regions found for {protein}")
-        continue
+     raise ValueError(
+        f"No eligible antigen regions found for {protein}"
+    )
 
     reference = eligible[0]["reference_region"]
+
+    # Verify reference consistency and peptide lengths
+    if any(
+        row["reference_region"] != reference
+        or len(row["observed_region"]) != len(reference)
+        for row in eligible
+    ):
+        raise ValueError(
+            f"Inconsistent peptide regions for {protein}"
+        )
 
     # Count all eligible NCBI records
     total_records = len(eligible)
