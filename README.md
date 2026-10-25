@@ -145,15 +145,6 @@ The following descriptive measures were calculated:
 
 These measures describe sequence patterns within the analyzed record collection.
 
-### Record Screening and Reference Matching
-
-![Record screening and reference matching](results/figures/figure3_qc_flow.png)
-
-**Figure 3.** Number of candidate protein records retrieved from NCBI, retained after identity and sequence-quality screening, containing a fully comparable target region, and exactly matching the selected reference peptide.
-
-The exact-match counts represent an analytical outcome rather than an additional quality-control exclusion step.
-
-Notably, only 59 of 661 screened EBNA1 records contained a fully comparable target region under the implemented alignment-based mapping criteria. Therefore, the observed 100% reference exact-match frequency for EBNA1 applies only to this eligible subset.
 
 ### 7. Visualization
 
@@ -223,6 +214,16 @@ Figure 1 compares reference-peptide exact-match frequencies across EBNA1, EBNA3A
 ![EBNA3A Shannon entropy](results/figures/figure2_ebna3a_entropy.png)
 
 Figure 2 shows amino acid variability across the nine positions of the selected EBNA3A region. Higher Shannon entropy indicates greater amino acid diversity at a position.
+
+### Record Screening and Reference Matching
+
+![Record screening and reference matching](results/figures/figure3_qc_flow.png)
+
+**Figure 3.** Number of candidate protein records retrieved from NCBI, retained after identity and sequence-quality screening, containing a fully comparable target region, and exactly matching the selected reference peptide.
+
+The exact-match counts represent an analytical outcome rather than an additional quality-control exclusion step.
+
+Notably, only 59 of 661 screened EBNA1 records contained a fully comparable target region under the implemented alignment-based mapping criteria. Therefore, the observed 100% reference exact-match frequency for EBNA1 applies only to this eligible subset.
 
 
 ## Discussion
